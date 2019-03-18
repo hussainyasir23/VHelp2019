@@ -20,6 +20,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
             android:text="@string/welcome_to_v_help_2019"
+            android:textAlignment="center"
             android:textColor="@color/black"
             android:textSize="30sp" />
 
@@ -27,60 +28,60 @@
             android:id="@+id/principal"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Principal" />
+            android:text="@string/principal" />
 
         <Button
             android:id="@+id/departments"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Departments" />
+            android:text="@string/departments" />
 
         <Button
             android:id="@+id/library"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Library" />
+            android:text="@string/library" />
 
         <Button
             android:id="@+id/transport"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Transport" />
+            android:text="@string/transport" />
 
         <Button
             android:id="@+id/placementcell"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Placement Cell" />
+            android:text="@string/placement_cell" />
 
         <Button
             android:id="@+id/hostel"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Hostel" />
+            android:text="@string/hostel" />
 
         <Button
             android:id="@+id/wellnesscenter"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Wellness Center" />
+            android:text="@string/wellness_center" />
 
         <Button
             android:id="@+id/clubs"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Clubs" />
+            android:text="@string/clubs" />
 
         <Button
             android:id="@+id/adminandaccounts"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Admin And Accounts" />
+            android:text="@string/admin_and_accounts" />
 
         <Button
             android:id="@+id/contactus"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Contact Us" />
+            android:text="@string/contact_us" />
     </LinearLayout>
 </ScrollView>

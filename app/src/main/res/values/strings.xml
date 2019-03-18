@@ -93,4 +93,14 @@
     </string>
     <string name="action_settings">Settings</string>
     <string name="welcome_to_v_help_2019">Welcome to V-Help 2019</string>
+    <string name="principal">Principal</string>
+    <string name="departments">Departments</string>
+    <string name="library">Library</string>
+    <string name="transport">Transport</string>
+    <string name="placement_cell">Placement Cell</string>
+    <string name="hostel">Hostel</string>
+    <string name="wellness_center">Wellness Center</string>
+    <string name="clubs">Clubs</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="admin_and_accounts">Admin And Accounts</string>
 </resources>
