@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HomeActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="@string/welcome_to_v_help_2019"
+            android:textColor="@color/black"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/principal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Principal" />
+
+        <Button
+            android:id="@+id/departments"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Departments" />
+
+        <Button
+            android:id="@+id/library"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Library" />
+
+        <Button
+            android:id="@+id/transport"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Transport" />
+
+        <Button
+            android:id="@+id/placementcell"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Placement Cell" />
+
+        <Button
+            android:id="@+id/hostel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Hostel" />
+
+        <Button
+            android:id="@+id/wellnesscenter"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Wellness Center" />
+
+        <Button
+            android:id="@+id/clubs"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Clubs" />
+
+        <Button
+            android:id="@+id/adminandaccounts"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Admin And Accounts" />
+
+        <Button
+            android:id="@+id/contactus"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Contact Us" />
+    </LinearLayout>
+</ScrollView>
