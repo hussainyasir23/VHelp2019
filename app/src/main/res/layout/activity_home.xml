@@ -27,9 +27,9 @@
             android:id="@+id/principal"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:fontFamily="monospace"
-            android:text="Principal"
-            android:onClick="principal"/>
+            android:fontFamily="sans-serif-medium"
+            android:onClick="principal"
+            android:text="Principal" />
 
         <Button
             android:id="@+id/departments"
