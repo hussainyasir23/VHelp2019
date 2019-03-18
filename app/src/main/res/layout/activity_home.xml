@@ -12,6 +12,7 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="25dp"
         android:layout_marginRight="25dp"
+        android:layout_marginTop="25dp"
         android:orientation="vertical">
 
         <TextView
@@ -20,8 +21,11 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
             android:text="Welcome to V-HELP 2019"
+            android:textAlignment="center"
+            android:textAllCaps="false"
             android:textColor="@color/black"
-            android:textSize="30sp" />
+            android:textSize="30sp"
+            android:textStyle="bold" />
 
         <Button
             android:id="@+id/principal"
@@ -29,60 +33,70 @@
             android:layout_height="wrap_content"
             android:fontFamily="sans-serif-medium"
             android:onClick="principal"
-            android:text="Principal" />
+            android:text="Principal"
+            android:textSize="16dp" />
 
         <Button
             android:id="@+id/departments"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Departments" />
+            android:text="Departments"
+            android:textSize="16dp" />
 
         <Button
             android:id="@+id/library"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Library" />
+            android:text="Library"
+            android:textSize="16dp" />
 
         <Button
             android:id="@+id/transport"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Transport" />
+            android:text="Transport"
+            android:textSize="16dp" />
 
         <Button
             android:id="@+id/placementcell"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Placement Cell" />
+            android:text="Placement Cell"
+            android:textSize="16dp" />
 
         <Button
             android:id="@+id/hostel"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Hostel" />
+            android:text="Hostel"
+            android:textSize="16dp" />
 
         <Button
             android:id="@+id/wellnesscenter"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Wellness Center" />
+            android:text="Wellness Center"
+            android:textSize="16dp" />
 
         <Button
             android:id="@+id/clubs"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Clubs" />
+            android:text="Clubs"
+            android:textSize="16dp" />
 
         <Button
             android:id="@+id/adminandaccounts"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Admin And Accounts" />
+            android:text="Admin And Accounts"
+            android:textSize="16dp" />
 
         <Button
             android:id="@+id/contactus"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Contact Us" />
+            android:text="Contact Us"
+            android:textSize="16dp" />
     </LinearLayout>
 </ScrollView>
