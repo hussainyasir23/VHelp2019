@@ -6,12 +6,12 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <TextView
-        android:id="@+id/textView"
+
+    <ImageView
+        android:id="@+id/logo"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello"
-        tools:layout_editor_absoluteX="185dp"
-        tools:layout_editor_absoluteY="41dp" />
-
+        android:layout_gravity="center_vertical"
+        app:srcCompat="@drawable/logo"
+        android:contentDescription="VishnuLogo" />
 </LinearLayout>
