@@ -19,8 +19,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
-            android:text="@string/welcome_to_v_help_2019"
-            android:textAlignment="center"
+            android:text="Welcome to V-HELP 2019"
             android:textColor="@color/black"
             android:textSize="30sp" />
 
@@ -28,60 +27,60 @@
             android:id="@+id/principal"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/principal" />
+            android:text="Principal" />
 
         <Button
             android:id="@+id/departments"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/departments" />
+            android:text="Departments" />
 
         <Button
             android:id="@+id/library"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/library" />
+            android:text="Library" />
 
         <Button
             android:id="@+id/transport"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/transport" />
+            android:text="Transport" />
 
         <Button
             android:id="@+id/placementcell"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/placement_cell" />
+            android:text="Placement Cell" />
 
         <Button
             android:id="@+id/hostel"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/hostel" />
+            android:text="Hostel" />
 
         <Button
             android:id="@+id/wellnesscenter"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/wellness_center" />
+            android:text="Wellness Center" />
 
         <Button
             android:id="@+id/clubs"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/clubs" />
+            android:text="Clubs" />
 
         <Button
             android:id="@+id/adminandaccounts"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/admin_and_accounts" />
+            android:text="Admin And Accounts" />
 
         <Button
             android:id="@+id/contactus"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/contact_us" />
+            android:text="Contact Us" />
     </LinearLayout>
 </ScrollView>
