@@ -11,9 +11,9 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="vertical"
-        android:layout_marginRight="10dp"
-        android:layout_marginLeft="10dp"
-        android:layout_marginTop="10dp">
+        android:layout_marginRight="15dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="15dp">
 
         <TextView
             android:id="@+id/textView"
@@ -38,18 +38,18 @@
             android:layout_marginTop="10dp"
             android:layout_marginBottom="10dp"
             android:textSize="15sp" />
+
         <TextView
             android:id="@+id/textView3"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="center_vertical"
+            android:layout_marginBottom="10dp"
             android:fontFamily="@font/oxygenregular"
             android:text="Transport Incharges:"
-            android:textAlignment="center"
             android:textColor="@color/black"
             android:textSize="15dp"
-            android:textStyle="bold"
-            android:layout_marginBottom="10dp"/>
+            android:textStyle="bold" />
 
         <TextView
         android:id="@+id/textView4"
@@ -123,12 +123,13 @@
             android:textColor="@color/black"
             android:textSize="14dp"
             android:layout_marginBottom="10dp"/>
+
         <TextView
             android:id="@+id/textView10"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:fontFamily="@font/oxygenregular"
-            android:text="Mr. K. Durga Prasad"
+            android:text="Mr.Rajesh Khanna"
             android:textAlignment="center"
             android:textColor="@color/black"
             android:textSize="15dp"
@@ -175,6 +176,118 @@
             android:textSize="14dp"
             android:textStyle="bold"
             android:focusable="true" />
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="10dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Route: 1J"
+            android:textColor="@color/red"
+            android:textSize="16dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView15"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="5dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Faculty Incharge:\nJ. Suman"
+            android:textColor="@color/black"
+            android:textSize="14dp" />
+        <TextView
+            android:id="@+id/textView16"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:autoLink="phone"
+            android:clickable="true"
+            android:text="+91 9553766222"
+            android:textColor="@color/black"
+            android:textColorLink="@color/blue"
+            android:textSize="14dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView17"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="5dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Driver:\nShivender"
+            android:textColor="@color/black"
+            android:textSize="14dp" />
+        <TextView
+            android:id="@+id/textView18"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp"
+            android:autoLink="phone"
+            android:clickable="true"
+            android:text="+91 8639717854"
+            android:textColor="@color/black"
+            android:textColorLink="@color/blue"
+            android:textSize="14dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView19"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="10dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Route: 2J"
+            android:textColor="@color/red"
+            android:textSize="16dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView20"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="5dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Faculty Incharge:\nM. Krishna Prasad"
+            android:textColor="@color/black"
+            android:textSize="14dp" />
+        <TextView
+            android:id="@+id/textView21"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:autoLink="phone"
+            android:clickable="true"
+            android:text="+91 8142567942"
+            android:textColor="@color/black"
+            android:textColorLink="@color/blue"
+            android:textSize="14dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView22"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="5dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Driver:\nChakrapani"
+            android:textColor="@color/black"
+            android:textSize="14dp" />
+        <TextView
+            android:id="@+id/textView23"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp"
+            android:autoLink="phone"
+            android:clickable="true"
+            android:text="+91 9032867350"
+            android:textColor="@color/black"
+            android:textColorLink="@color/blue"
+            android:textSize="14dp"
+            android:textStyle="bold" />
 
     </LinearLayout>
 </ScrollView>
