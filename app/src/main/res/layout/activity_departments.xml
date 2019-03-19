@@ -34,11 +34,36 @@
             android:textSize="16sp" />
 
         <Button
-            android:id="@+id/ecedf"
+            android:id="@+id/ece"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="ECE"
             android:textSize="16sp" />
+        <Button
+            android:id="@+id/eee"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="EEE"
+            android:textSize="16sp" />
+        <Button
+            android:id="@+id/mech"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="MECH"
+            android:textSize="16sp" />
+        <Button
+            android:id="@+id/civil"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="CIVIL"
+            android:textSize="16sp" />
+        <Button
+            android:id="@+id/it"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="IT"
+            android:textSize="16sp" />
+
 
 
     </LinearLayout>
