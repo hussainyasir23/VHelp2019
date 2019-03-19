@@ -44,7 +44,8 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Departments"
-            android:textSize="16sp" />
+            android:textSize="16sp"
+            android:onClick="departments"/>
 
         <Button
             android:id="@+id/library"
@@ -72,6 +73,12 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Placement Cell"
+            android:textSize="16sp" />
+        <Button
+            android:id="@+id/speciallabs"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Special Labs"
             android:textSize="16sp" />
         <Button
             android:id="@+id/exambranch"

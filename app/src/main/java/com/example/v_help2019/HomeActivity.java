@@ -17,4 +17,9 @@ public class HomeActivity extends Activity {
         Intent principalIntent = new Intent(HomeActivity.this,principal.class);
         startActivity(principalIntent);
     }
+
+    public void departments(View view) {
+        Intent departmentsintent = new Intent(HomeActivity.this,departments.class);
+        startActivity(departmentsintent);
+    }
 }
