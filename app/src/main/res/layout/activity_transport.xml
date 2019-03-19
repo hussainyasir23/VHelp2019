@@ -26,6 +26,13 @@
             android:textColor="@color/black"
             android:textSize="20sp"
             android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="match_parent"
+            android:layout_height="125dp"
+            android:src="@drawable/bus" />
+
         <TextView
             android:id="@+id/textView2"
             android:layout_width="match_parent"
@@ -241,6 +248,7 @@
             android:layout_marginBottom="10dp"
             android:fontFamily="@font/oxygenregular"
             android:text="Route: 2J"
+            android:textAllCaps="false"
             android:textColor="@color/red"
             android:textSize="16dp"
             android:textStyle="bold" />
