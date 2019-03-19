@@ -21,6 +21,7 @@
         <activity android:name=".bsh" />
         <activity android:name=".principal" />
         <activity android:name=".HomeActivity" />
+        <activity android:name=".library"/>
         <activity android:name=".departments" />
         <activity android:name=".MainActivity">
             <intent-filter>
