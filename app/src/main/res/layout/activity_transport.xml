@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".transport">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:fontFamily="@font/oxygenregular"
+            android:text="TRANSPORT"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/oxygenregular"
+            android:text="BVRIT is located around 50 Kms away from Hyderabad at Narsapur, Medak (District). One can reach only by road. More than 55 college buses are plying from various corners of Hyderabad, from Sangareddy, Medak, etc."
+            android:textAlignment="textStart"
+            android:textAllCaps="false"
+            android:textColor="@color/black"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:textSize="15sp" />
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Transport Incharges:"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="15dp"
+            android:textStyle="bold"
+            android:layout_marginBottom="10dp"/>
+
+        <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:fontFamily="@font/oxygenregular"
+        android:text="For Route Nos: J, M, N, BHEL, SRD, MEDAK"
+        android:textColor="@color/black"
+        android:textSize="14dp"
+        android:layout_marginBottom="10dp"/>
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Mr. K. Durga Prasad"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="16dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="10dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Associate Professor\nDepartment of IT"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="14dp" />
+        <TextView
+            android:id="@+id/textView7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="15dp"
+            android:autoLink="phone"
+            android:clickable="true"
+            android:text="+91 85000835694"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textColorLink="@color/blue"
+            android:textSize="14dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="15dp"
+            android:autoLink="email"
+            android:clickable="true"
+            android:fontFamily="monospace"
+            android:scrollbarSize="10dp"
+            android:text="transport@bvrit.ac.in"
+            android:textColor="@color/black"
+            android:textColorLink="@color/blue"
+            android:textSize="14dp"
+            android:textStyle="bold"
+            android:focusable="true" />
+        <TextView
+            android:id="@+id/textView9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:fontFamily="@font/oxygenregular"
+            android:text="For Route Nos: S, B, L, ODF, BDL, SSP, ISP, GAJWEL, MDCL"
+            android:textColor="@color/black"
+            android:textSize="14dp"
+            android:layout_marginBottom="10dp"/>
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Mr. K. Durga Prasad"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="15dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="10dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Associate Professor\nDepartment of CSE"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="14dp" />
+        <TextView
+            android:id="@+id/textView12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="15dp"
+            android:autoLink="phone"
+            android:clickable="true"
+            android:text="+91 9553766222"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textColorLink="@color/blue"
+            android:textSize="14dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView13"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="15dp"
+            android:autoLink="email"
+            android:clickable="true"
+            android:fontFamily="monospace"
+            android:scrollbarSize="10dp"
+            android:text="transport@bvrit.ac.in"
+            android:textColor="@color/black"
+            android:textColorLink="@color/blue"
+            android:textSize="14dp"
+            android:textStyle="bold"
+            android:focusable="true" />
+
+    </LinearLayout>
+</ScrollView>

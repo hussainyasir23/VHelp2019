@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".mba"></activity>
+        <activity android:name=".transport"></activity>
+        <activity android:name=".mba" />
         <activity android:name=".phe" />
         <activity android:name=".bme" />
         <activity android:name=".it" />
@@ -21,7 +22,7 @@
         <activity android:name=".bsh" />
         <activity android:name=".principal" />
         <activity android:name=".HomeActivity" />
-        <activity android:name=".library"/>
+        <activity android:name=".library" />
         <activity android:name=".departments" />
         <activity android:name=".MainActivity">
             <intent-filter>

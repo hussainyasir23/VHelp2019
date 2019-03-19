@@ -27,4 +27,9 @@ public class HomeActivity extends Activity {
         Intent libraryIntent = new Intent(HomeActivity.this,library.class);
         startActivity(libraryIntent);
     }
+
+    public void transport(View view) {
+        Intent transportIntent = new Intent(HomeActivity.this,transport.class);
+        startActivity(transportIntent);
+    }
 }
