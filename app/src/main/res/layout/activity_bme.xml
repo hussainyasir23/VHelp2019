@@ -5,5 +5,282 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".bme">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Prof. Ashok Shigli - HOD"
+            android:layout_marginBottom="10dp"
+            android:textSize="18sp"
+            android:textColor="@color/black"
+            android:textAlignment="center"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="91 9849515541"
+            android:autoLink="phone"
+            android:textAlignment="center"
+            android:layout_marginBottom="10dp"
+            android:textColor="@color/black"
+            android:layout_gravity="center"
+            android:layout_marginLeft="10dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ashok.shigli@bvrit.ac.in"
+            android:autoLink="email"
+            android:textColor="@color/black"
+            android:layout_gravity="center"
+            android:textAlignment="center"
+            android:layout_marginBottom="20dp"
+            android:layout_marginLeft="10dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="M.kaathik - Assistant Professor"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="+91 8121786230"
+            android:autoLink="phone"
+            android:textAlignment="center"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="kaarthik.m@bvrit.ac.in"
+            android:autoLink="email"
+            android:textAlignment="center"
+            android:layout_marginBottom="20dp"
+            android:layout_marginLeft="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="M.Sravani -Assistant Professor"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="+91 9491229462"
+            android:autoLink="phone"
+            android:textAlignment="center"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="sravani.m@bvrit.ac.in"
+            android:autoLink="email"
+            android:textAlignment="center"
+            android:layout_marginBottom="20dp"
+            android:layout_marginLeft="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="V.Jothsna - Assistant Professor"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="+91 9652092018"
+            android:autoLink="phone"
+            android:textAlignment="center"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Jothsna.v@bvrit.ac.in"
+            android:autoLink="email"
+            android:textAlignment="center"
+            android:layout_marginBottom="20dp"
+            android:layout_marginLeft="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="A.Sandhya - Assistant Professor"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="+91 8885191296"
+            android:autoLink="phone"
+            android:textAlignment="center"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sandhya.a@bvrit.ac.in"
+            android:autoLink="email"
+            android:textAlignment="center"
+            android:layout_marginBottom="20dp"
+            android:layout_marginLeft="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="J.Manikyam - Assistant Professor"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="+91 9490376237"
+            android:autoLink="phone"
+            android:textAlignment="center"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="manikyam.j@bvrit.ac.in"
+            android:autoLink="email"
+            android:textAlignment="center"
+            android:layout_marginBottom="20dp"
+            android:layout_marginLeft="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="M.Prem Kumar - Assistant Professor"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="+91 9246343519"
+            android:autoLink="phone"
+            android:textAlignment="center"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="premkumar.m@bvrit.ac.in"
+            android:autoLink="email"
+            android:textAlignment="center"
+            android:layout_marginBottom="20dp"
+            android:layout_marginLeft="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="P.Manju Bhargavi - Assistant Professor"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="+91 9703477897"
+            android:autoLink="phone"
+            android:textAlignment="center"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="manjubhargavi.p@bvrit.ac.in"
+            android:autoLink="email"
+            android:textAlignment="center"
+            android:layout_marginBottom="20dp"
+            android:layout_marginLeft="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Dr.H.Sujana - Assistant Professor"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="+91 9949848886"
+            android:autoLink="phone"
+            android:textAlignment="center"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="sujana.h@bvrit.ac.in"
+            android:autoLink="email"
+            android:textAlignment="center"
+            android:layout_marginBottom="20dp"
+            android:layout_marginLeft="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="A.Srilatha Reddy - Assistant Professor"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="+91 9704699261"
+            android:autoLink="phone"
+            android:textAlignment="center"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="srilathareddy.ambati@bvrit.ac.in"
+            android:autoLink="email"
+            android:textAlignment="center"
+            android:layout_marginBottom="20dp"
+            android:layout_marginLeft="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="V.Sripathi Raja - Assistant Professor"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="+91 9849261507"
+            android:autoLink="phone"
+            android:textAlignment="center"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="rajasripathi.ventapalli@bvrit.ac.in"
+            android:autoLink="email"
+            android:textAlignment="center"
+            android:layout_marginBottom="20dp"
+            android:layout_marginLeft="10dp"/>
+
+
+
+
+
+
+
+
+
+
+
+    </LinearLayout>
 
 </ScrollView>
