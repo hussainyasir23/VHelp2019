@@ -352,6 +352,404 @@
             android:textColorLink="@color/blue"
             android:textSize="14dp"
             android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView34"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="10dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Route: 5J"
+            android:textAllCaps="false"
+            android:textColor="@color/red"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView35"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="5dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Faculty Incharge:\n Durga Prasad"
+            android:textColor="@color/black"
+            android:textSize="14dp" />
+        <TextView
+            android:id="@+id/textView36"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:autoLink="phone"
+            android:clickable="true"
+            android:text="+91 9290901526"
+            android:textColor="@color/black"
+            android:textColorLink="@color/blue"
+            android:textSize="14dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView37"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="5dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Driver:\nSrinivas Reddy"
+            android:textColor="@color/black"
+            android:textSize="14dp" />
+        <TextView
+            android:id="@+id/textView38"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp"
+            android:autoLink="phone"
+            android:clickable="true"
+            android:text="+91 8096108677"
+            android:textColor="@color/black"
+            android:textColorLink="@color/blue"
+            android:textSize="14dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView39"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="10dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Route: 6J"
+            android:textAllCaps="false"
+            android:textColor="@color/red"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView40"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="5dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Faculty Incharge:\n Durga Prasad"
+            android:textColor="@color/black"
+            android:textSize="14dp" />
+        <TextView
+            android:id="@+id/textView41"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:autoLink="phone"
+            android:clickable="true"
+            android:text="+91 9290901526"
+            android:textColor="@color/black"
+            android:textColorLink="@color/blue"
+            android:textSize="14dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView42"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="5dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Driver:\nSrinivas Reddy"
+            android:textColor="@color/black"
+            android:textSize="14dp" />
+        <TextView
+            android:id="@+id/textView43"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp"
+            android:autoLink="phone"
+            android:clickable="true"
+            android:text="+91 8096108677"
+            android:textColor="@color/black"
+            android:textColorLink="@color/blue"
+            android:textSize="14dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView44"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="10dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Route: 7J"
+            android:textAllCaps="false"
+            android:textColor="@color/red"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView45"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="5dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Faculty Incharge:\n Durga Prasad"
+            android:textColor="@color/black"
+            android:textSize="14dp" />
+        <TextView
+            android:id="@+id/textView46"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:autoLink="phone"
+            android:clickable="true"
+            android:text="+91 9290901526"
+            android:textColor="@color/black"
+            android:textColorLink="@color/blue"
+            android:textSize="14dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView47"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="5dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Driver:\nSrinivas Reddy"
+            android:textColor="@color/black"
+            android:textSize="14dp" />
+        <TextView
+            android:id="@+id/textView48"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp"
+            android:autoLink="phone"
+            android:clickable="true"
+            android:text="+91 8096108677"
+            android:textColor="@color/black"
+            android:textColorLink="@color/blue"
+            android:textSize="14dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView49"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="10dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Route: 8J"
+            android:textAllCaps="false"
+            android:textColor="@color/red"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView50"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="5dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Faculty Incharge:\n Durga Prasad"
+            android:textColor="@color/black"
+            android:textSize="14dp" />
+        <TextView
+            android:id="@+id/textView51"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:autoLink="phone"
+            android:clickable="true"
+            android:text="+91 9290901526"
+            android:textColor="@color/black"
+            android:textColorLink="@color/blue"
+            android:textSize="14dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView52"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="5dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Driver:\nSrinivas Reddy"
+            android:textColor="@color/black"
+            android:textSize="14dp" />
+        <TextView
+            android:id="@+id/textView53"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp"
+            android:autoLink="phone"
+            android:clickable="true"
+            android:text="+91 8096108677"
+            android:textColor="@color/black"
+            android:textColorLink="@color/blue"
+            android:textSize="14dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView54"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="10dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Route: 9J"
+            android:textAllCaps="false"
+            android:textColor="@color/red"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView55"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="5dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Faculty Incharge:\n Durga Prasad"
+            android:textColor="@color/black"
+            android:textSize="14dp" />
+        <TextView
+            android:id="@+id/textView56"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:autoLink="phone"
+            android:clickable="true"
+            android:text="+91 9290901526"
+            android:textColor="@color/black"
+            android:textColorLink="@color/blue"
+            android:textSize="14dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView57"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="5dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Driver:\nSrinivas Reddy"
+            android:textColor="@color/black"
+            android:textSize="14dp" />
+        <TextView
+            android:id="@+id/textView58"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp"
+            android:autoLink="phone"
+            android:clickable="true"
+            android:text="+91 8096108677"
+            android:textColor="@color/black"
+            android:textColorLink="@color/blue"
+            android:textSize="14dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView59"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="10dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Route: 10J"
+            android:textAllCaps="false"
+            android:textColor="@color/red"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView60"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="5dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Faculty Incharge:\n Durga Prasad"
+            android:textColor="@color/black"
+            android:textSize="14dp" />
+        <TextView
+            android:id="@+id/textView61"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:autoLink="phone"
+            android:clickable="true"
+            android:text="+91 9290901526"
+            android:textColor="@color/black"
+            android:textColorLink="@color/blue"
+            android:textSize="14dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView62"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="5dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Driver:\nSrinivas Reddy"
+            android:textColor="@color/black"
+            android:textSize="14dp" />
+        <TextView
+            android:id="@+id/textView63"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp"
+            android:autoLink="phone"
+            android:clickable="true"
+            android:text="+91 8096108677"
+            android:textColor="@color/black"
+            android:textColorLink="@color/blue"
+            android:textSize="14dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView64"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="10dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Route:11J"
+            android:textAllCaps="false"
+            android:textColor="@color/red"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView65"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="5dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Faculty Incharge:\n Durga Prasad"
+            android:textColor="@color/black"
+            android:textSize="14dp" />
+        <TextView
+            android:id="@+id/textView66"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:autoLink="phone"
+            android:clickable="true"
+            android:text="+91 9290901526"
+            android:textColor="@color/black"
+            android:textColorLink="@color/blue"
+            android:textSize="14dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView67"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="5dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Driver:\nSrinivas Reddy"
+            android:textColor="@color/black"
+            android:textSize="14dp" />
+        <TextView
+            android:id="@+id/textView68"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp"
+            android:autoLink="phone"
+            android:clickable="true"
+            android:text="+91 8096108677"
+            android:textColor="@color/black"
+            android:textColorLink="@color/blue"
+            android:textSize="14dp"
+            android:textStyle="bold" />
 
     </LinearLayout>
 </ScrollView>
