@@ -62,7 +62,8 @@
             android:textColor="@color/black"
             android:textColorLink="@color/blue"
             android:textSize="20sp"
-            android:textStyle="bold" />
+            android:textStyle="bold"
+            android:focusable="true" />
 
         <TextView
             android:id="@+id/textView2"
@@ -73,6 +74,6 @@
             android:textAlignment="textStart"
             android:textAllCaps="false"
             android:textColor="@color/black"
-            android:textSize="15sp" />
+            android:textSize="15dp" />
     </LinearLayout>
 </ScrollView>

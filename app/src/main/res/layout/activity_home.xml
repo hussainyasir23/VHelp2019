@@ -20,12 +20,13 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
+            android:fontFamily="sans-serif"
             android:text="Welcome to V-HELP 2019"
             android:textAlignment="center"
             android:textAllCaps="false"
             android:textColor="@color/black"
             android:textSize="30sp"
-            android:fontFamily="@font/quicksandregular" />
+            android:layout_marginBottom="25dp"/>
 
 
         <Button
