@@ -8,13 +8,16 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
         android:orientation="vertical">
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Prof. Ashok Shigli - HOD"
+            android:text="Prof. Ashok Shigli\n - HOD"
             android:layout_marginBottom="10dp"
-            android:textSize="18sp"
+            android:textSize="20sp"
             android:textColor="@color/black"
             android:textAlignment="center"
             android:layout_marginTop="10dp"
@@ -27,6 +30,7 @@
             android:textAlignment="center"
             android:layout_marginBottom="10dp"
             android:layout_gravity="center"
+            android:textSize="16sp"
             android:layout_marginLeft="10dp"/>
         <TextView
             android:layout_width="wrap_content"
@@ -36,6 +40,7 @@
             android:textColor="@color/black"
             android:layout_gravity="center"
             android:textAlignment="center"
+            android:textSize="16sp"
             android:layout_marginBottom="20dp"
             android:layout_marginLeft="10dp"/>
 
@@ -45,7 +50,8 @@
             android:layout_marginLeft="10dp"
             android:layout_marginTop="10dp"
             android:layout_marginBottom="10dp"
-            android:text="M.Kaathik - Assistant Professor"
+            android:textSize="18sp"
+            android:text="M.Kaathik\n - Assistant Professor"
             android:textColor="@color/black" />
         <TextView
             android:layout_width="wrap_content"
@@ -54,7 +60,8 @@
             android:autoLink="phone"
             android:textAlignment="center"
             android:layout_marginBottom="10dp"
-            android:layout_marginLeft="10dp"/>
+            android:layout_marginLeft="10dp"
+            android:textSize="15sp"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -62,7 +69,8 @@
             android:autoLink="email"
             android:textAlignment="center"
             android:layout_marginBottom="20dp"
-            android:layout_marginLeft="10dp"/>
+            android:layout_marginLeft="10dp"
+            android:textSize="15sp"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -70,7 +78,8 @@
             android:layout_marginLeft="10dp"
             android:layout_marginTop="10dp"
             android:layout_marginBottom="10dp"
-            android:text="M.Sravani -Assistant Professor"
+            android:textSize="18sp"
+            android:text="M.Sravani\n - Assistant Professor"
             android:textColor="@color/black" />
         <TextView
             android:layout_width="wrap_content"
@@ -79,7 +88,8 @@
             android:autoLink="phone"
             android:textAlignment="center"
             android:layout_marginBottom="10dp"
-            android:layout_marginLeft="10dp"/>
+            android:layout_marginLeft="10dp"
+            android:textSize="15sp"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -87,7 +97,8 @@
             android:autoLink="email"
             android:textAlignment="center"
             android:layout_marginBottom="20dp"
-            android:layout_marginLeft="10dp"/>
+            android:layout_marginLeft="10dp"
+            android:textSize="15sp"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -95,8 +106,9 @@
             android:layout_marginLeft="10dp"
             android:layout_marginTop="10dp"
             android:layout_marginBottom="10dp"
-            android:text="V.Jothsna - Assistant Professor"
-            android:textColor="@color/black" />
+            android:text="V.Jothsna\n - Assistant Professor"
+            android:textColor="@color/black"
+            android:textSize="18sp"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -104,7 +116,8 @@
             android:autoLink="phone"
             android:textAlignment="center"
             android:layout_marginBottom="10dp"
-            android:layout_marginLeft="10dp"/>
+            android:layout_marginLeft="10dp"
+            android:textSize="15sp"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -112,7 +125,8 @@
             android:autoLink="email"
             android:textAlignment="center"
             android:layout_marginBottom="20dp"
-            android:layout_marginLeft="10dp"/>
+            android:layout_marginLeft="10dp"
+            android:textSize="15sp"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -120,8 +134,9 @@
             android:layout_marginLeft="10dp"
             android:layout_marginTop="10dp"
             android:layout_marginBottom="10dp"
-            android:text="A.Sandhya - Assistant Professor"
-            android:textColor="@color/black" />
+            android:text="A.Sandhya\n - Assistant Professor"
+            android:textColor="@color/black"
+            android:textSize="18sp"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -129,7 +144,8 @@
             android:autoLink="phone"
             android:textAlignment="center"
             android:layout_marginBottom="10dp"
-            android:layout_marginLeft="10dp"/>
+            android:layout_marginLeft="10dp"
+            android:textSize="15sp"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -137,7 +153,8 @@
             android:autoLink="email"
             android:textAlignment="center"
             android:layout_marginBottom="20dp"
-            android:layout_marginLeft="10dp"/>
+            android:layout_marginLeft="10dp"
+            android:textSize="15sp"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -145,8 +162,9 @@
             android:layout_marginLeft="10dp"
             android:layout_marginTop="10dp"
             android:layout_marginBottom="10dp"
-            android:text="J.Manikyam - Assistant Professor"
-            android:textColor="@color/black" />
+            android:text="J.Manikyam\n - Assistant Professor"
+            android:textColor="@color/black"
+            android:textSize="20sp"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -154,7 +172,8 @@
             android:autoLink="phone"
             android:textAlignment="center"
             android:layout_marginBottom="10dp"
-            android:layout_marginLeft="10dp"/>
+            android:layout_marginLeft="10dp"
+            android:textSize="15sp"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -162,7 +181,8 @@
             android:autoLink="email"
             android:textAlignment="center"
             android:layout_marginBottom="20dp"
-            android:layout_marginLeft="10dp"/>
+            android:layout_marginLeft="10dp"
+            android:textSize="15sp"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -170,8 +190,9 @@
             android:layout_marginLeft="10dp"
             android:layout_marginTop="10dp"
             android:layout_marginBottom="10dp"
-            android:text="M.Prem Kumar - Assistant Professor"
-            android:textColor="@color/black" />
+            android:text="M.Prem Kumar\n - Assistant Professor"
+            android:textColor="@color/black"
+            android:textSize="20sp"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -179,7 +200,8 @@
             android:autoLink="phone"
             android:textAlignment="center"
             android:layout_marginBottom="10dp"
-            android:layout_marginLeft="10dp"/>
+            android:layout_marginLeft="10dp"
+            android:textSize="15sp"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -187,7 +209,8 @@
             android:autoLink="email"
             android:textAlignment="center"
             android:layout_marginBottom="20dp"
-            android:layout_marginLeft="10dp"/>
+            android:layout_marginLeft="10dp"
+            android:textSize="15sp"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -195,8 +218,9 @@
             android:layout_marginLeft="10dp"
             android:layout_marginTop="10dp"
             android:layout_marginBottom="10dp"
-            android:text="P.Manju Bhargavi - Assistant Professor"
-            android:textColor="@color/black" />
+            android:text="P.Manju Bhargavi\n - Assistant Professor"
+            android:textColor="@color/black"
+            android:textSize="20sp"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -204,7 +228,8 @@
             android:autoLink="phone"
             android:textAlignment="center"
             android:layout_marginBottom="10dp"
-            android:layout_marginLeft="10dp"/>
+            android:layout_marginLeft="10dp"
+            android:textSize="15sp"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -212,7 +237,8 @@
             android:autoLink="email"
             android:textAlignment="center"
             android:layout_marginBottom="20dp"
-            android:layout_marginLeft="10dp"/>
+            android:layout_marginLeft="10dp"
+            android:textSize="15sp"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -220,8 +246,9 @@
             android:layout_marginLeft="10dp"
             android:layout_marginTop="10dp"
             android:layout_marginBottom="10dp"
-            android:text="Dr.H.Sujana - Assistant Professor"
-            android:textColor="@color/black" />
+            android:text="Dr.H.Sujana\n - Assistant Professor"
+            android:textColor="@color/black"
+            android:textSize="18sp"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -229,7 +256,8 @@
             android:autoLink="phone"
             android:textAlignment="center"
             android:layout_marginBottom="10dp"
-            android:layout_marginLeft="10dp"/>
+            android:layout_marginLeft="10dp"
+            android:textSize="15sp"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -237,7 +265,8 @@
             android:autoLink="email"
             android:textAlignment="center"
             android:layout_marginBottom="20dp"
-            android:layout_marginLeft="10dp"/>
+            android:layout_marginLeft="10dp"
+            android:textSize="15sp"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -245,8 +274,9 @@
             android:layout_marginLeft="10dp"
             android:layout_marginTop="10dp"
             android:layout_marginBottom="10dp"
-            android:text="A.Srilatha Reddy - Assistant Professor"
-            android:textColor="@color/black" />
+            android:text="A.Srilatha Reddy\n - Assistant Professor"
+            android:textColor="@color/black"
+            android:textSize="18sp"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -254,7 +284,8 @@
             android:autoLink="phone"
             android:textAlignment="center"
             android:layout_marginBottom="10dp"
-            android:layout_marginLeft="10dp"/>
+            android:layout_marginLeft="10dp"
+            android:textSize="15sp"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -262,7 +293,8 @@
             android:autoLink="email"
             android:textAlignment="center"
             android:layout_marginBottom="20dp"
-            android:layout_marginLeft="10dp"/>
+            android:layout_marginLeft="10dp"
+            android:textSize="15sp"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -270,8 +302,9 @@
             android:layout_marginLeft="10dp"
             android:layout_marginTop="10dp"
             android:layout_marginBottom="10dp"
-            android:text="V.Sripathi Raja - Assistant Professor"
-            android:textColor="@color/black" />
+            android:text="V.Sripathi Raja\n - Assistant Professor"
+            android:textColor="@color/black"
+            android:textSize="18sp"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -279,14 +312,16 @@
             android:autoLink="phone"
             android:textAlignment="center"
             android:layout_marginBottom="10dp"
+            android:textSize="15sp"
             android:layout_marginLeft="10dp"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="rajasripathi.ventapalli@bvrit.ac.in"
             android:autoLink="email"
+            android:textSize="15sp"
             android:textAlignment="center"
-            android:layout_marginBottom="20dp"
+            android:layout_marginBottom="30dp"
             android:layout_marginLeft="10dp"/>
     </LinearLayout>
 
