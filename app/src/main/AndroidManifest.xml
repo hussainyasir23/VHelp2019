@@ -9,10 +9,19 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".library"></activity>
-        <activity android:name=".departments" />
+        <activity android:name=".mba"></activity>
+        <activity android:name=".phe" />
+        <activity android:name=".bme" />
+        <activity android:name=".it" />
+        <activity android:name=".civil" />
+        <activity android:name=".mech" />
+        <activity android:name=".eee" />
+        <activity android:name=".ece" />
+        <activity android:name=".cse" />
+        <activity android:name=".bsh" />
         <activity android:name=".principal" />
         <activity android:name=".HomeActivity" />
+        <activity android:name=".departments" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

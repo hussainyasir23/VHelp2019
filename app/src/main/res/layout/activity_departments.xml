@@ -31,12 +31,14 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="BS H"
+            android:onClick="bsh"
             android:textSize="16sp" />
         <Button
             android:id="@+id/cse"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="CSE"
+            android:onClick="cse"
             android:textSize="16sp" />
 
         <Button
@@ -44,48 +46,56 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="ECE"
+            android:onClick="ece"
             android:textSize="16sp" />
         <Button
             android:id="@+id/eee"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="EEE"
+            android:onClick="eee"
             android:textSize="16sp" />
         <Button
             android:id="@+id/mech"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="MECH"
+            android:onClick="mech"
             android:textSize="16sp" />
         <Button
             android:id="@+id/civil"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="CIVIL"
+            android:onClick="civil"
             android:textSize="16sp" />
         <Button
             android:id="@+id/it"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="IT"
+            android:onClick="it"
             android:textSize="16sp" />
         <Button
             android:id="@+id/bme"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="BME"
+            android:onClick="bme"
             android:textSize="16sp" />
         <Button
             android:id="@+id/phe"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="PHE"
+            android:onClick="phe"
             android:textSize="16sp" />
         <Button
             android:id="@+id/mba"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="MBA"
+            android:onClick="mba"
             android:textSize="16sp" />
 
 
