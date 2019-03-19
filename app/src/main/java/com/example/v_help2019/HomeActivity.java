@@ -19,12 +19,12 @@ public class HomeActivity extends Activity {
     }
 
     public void departments(View view) {
-        Intent departmentsintent = new Intent(HomeActivity.this,departments.class);
-        startActivity(departmentsintent);
+        Intent departmentsIntent = new Intent(HomeActivity.this,departments.class);
+        startActivity(departmentsIntent);
     }
 
     public void library(View view) {
-        Intent libraryintent = new Intent(HomeActivity.this,library.class);
-        startActivity(libraryintent);
+        Intent libraryIntent = new Intent(HomeActivity.this,library.class);
+        startActivity(libraryIntent);
     }
 }
