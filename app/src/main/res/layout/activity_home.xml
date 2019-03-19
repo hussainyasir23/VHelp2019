@@ -4,7 +4,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
+    android:layout_height="wrap_content"
     tools:context=".HomeActivity">
 
     <LinearLayout
@@ -13,7 +13,8 @@
         android:layout_marginLeft="25dp"
         android:layout_marginRight="25dp"
         android:layout_marginTop="25dp"
-        android:orientation="vertical">
+        android:orientation="vertical"
+        android:layout_marginBottom="25dp">
 
         <TextView
             android:id="@+id/text"
@@ -51,6 +52,13 @@
             android:layout_height="wrap_content"
             android:text="Library"
             android:textSize="16sp" />
+        <Button
+            android:id="@+id/sports"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sports"
+            android:textSize="16sp" />
+
 
         <Button
             android:id="@+id/transport"
@@ -65,6 +73,20 @@
             android:layout_height="wrap_content"
             android:text="Placement Cell"
             android:textSize="16sp" />
+        <Button
+            android:id="@+id/exambranch"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Examination Branch"
+            android:textSize="16sp" />
+        <Button
+            android:id="@+id/randd"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Research And Development"
+            android:textSize="16sp" />
+
+
 
         <Button
             android:id="@+id/hostel"
@@ -93,12 +115,20 @@
             android:layout_height="wrap_content"
             android:text="Admin And Accounts"
             android:textSize="16sp" />
+        <Button
+            android:id="@+id/networkandit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Network and it"
+            android:textSize="16sp" />
+
 
         <Button
             android:id="@+id/contactus"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Contact Us"
-            android:textSize="16sp" />
+            android:textSize="16sp"
+            android:layout_marginBottom="30dp"/>
     </LinearLayout>
 </ScrollView>
