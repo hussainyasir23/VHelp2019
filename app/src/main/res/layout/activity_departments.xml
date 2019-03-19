@@ -69,7 +69,24 @@
             android:layout_height="wrap_content"
             android:text="IT"
             android:textSize="16sp" />
-
+        <Button
+            android:id="@+id/bme"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="BME"
+            android:textSize="16sp" />
+        <Button
+            android:id="@+id/phe"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="PHE"
+            android:textSize="16sp" />
+        <Button
+            android:id="@+id/mba"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="MBA"
+            android:textSize="16sp" />
 
 
     </LinearLayout>
