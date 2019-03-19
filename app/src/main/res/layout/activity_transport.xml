@@ -59,15 +59,15 @@
             android:textStyle="bold" />
 
         <TextView
-        android:id="@+id/textView4"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center_vertical"
-        android:fontFamily="@font/oxygenregular"
-        android:text="For Route Nos: J, M, N, BHEL, SRD, MEDAK"
-        android:textColor="@color/black"
-        android:textSize="14dp"
-        android:layout_marginBottom="10dp"/>
+            android:id="@+id/textView4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:fontFamily="@font/oxygenregular"
+            android:text="For Route Nos: J, M, N, BHEL, SRD, MEDAK"
+            android:textColor="@color/black"
+            android:textSize="14dp"
+            android:layout_marginBottom="10dp"/>
         <TextView
             android:id="@+id/textView5"
             android:layout_width="match_parent"
@@ -193,7 +193,7 @@
             android:fontFamily="@font/oxygenregular"
             android:text="Route: 1J"
             android:textColor="@color/red"
-            android:textSize="16dp"
+            android:textSize="18dp"
             android:textStyle="bold" />
         <TextView
             android:id="@+id/textView15"
@@ -250,7 +250,7 @@
             android:text="Route: 2J"
             android:textAllCaps="false"
             android:textColor="@color/red"
-            android:textSize="16dp"
+            android:textSize="18dp"
             android:textStyle="bold" />
         <TextView
             android:id="@+id/textView20"
@@ -292,6 +292,62 @@
             android:autoLink="phone"
             android:clickable="true"
             android:text="+91 9032867350"
+            android:textColor="@color/black"
+            android:textColorLink="@color/blue"
+            android:textSize="14dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView24"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="10dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Route: 3J"
+            android:textAllCaps="false"
+            android:textColor="@color/red"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView25"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="5dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Faculty Incharge:\n Durga Prasad"
+            android:textColor="@color/black"
+            android:textSize="14dp" />
+        <TextView
+            android:id="@+id/textView26"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:autoLink="phone"
+            android:clickable="true"
+            android:text="+91 9290901526"
+            android:textColor="@color/black"
+            android:textColorLink="@color/blue"
+            android:textSize="14dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView27"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="5dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Driver:\nSrinivas Reddy"
+            android:textColor="@color/black"
+            android:textSize="14dp" />
+        <TextView
+            android:id="@+id/textView28"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp"
+            android:autoLink="phone"
+            android:clickable="true"
+            android:text="+91 8096108677"
             android:textColor="@color/black"
             android:textColorLink="@color/blue"
             android:textSize="14dp"
