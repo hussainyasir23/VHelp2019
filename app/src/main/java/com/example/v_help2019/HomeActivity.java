@@ -22,4 +22,9 @@ public class HomeActivity extends Activity {
         Intent departmentsintent = new Intent(HomeActivity.this,departments.class);
         startActivity(departmentsintent);
     }
+
+    public void library(View view) {
+        Intent libraryintent = new Intent(HomeActivity.this,library.class);
+        startActivity(libraryintent);
+    }
 }

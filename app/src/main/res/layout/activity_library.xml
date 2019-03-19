@@ -19,5 +19,27 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:src="@drawable/library" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Working Hours:"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="350dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="* On all working days : 8 am to 11 pm\n* Circulation : 9 am to 5 pm\n* Reference : 8 am to 11 pm\n* On Sundays : 11 am to 4 pm\n"
+            android:textAlignment="textStart"
+            android:textAllCaps="false"
+            android:textColor="@color/black"
+            android:textSize="15dp" />
     </LinearLayout>
 </ScrollView>
