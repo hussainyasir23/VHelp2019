@@ -37,6 +37,8 @@ public class transport extends Activity {
     }
 
     public void medchal(View view) {
+        Intent mintent=new Intent(transport.this,medchal.class);
+        startActivity(mintent);
     }
 
     public void secundrabad(View view) {
@@ -51,5 +53,7 @@ public class transport extends Activity {
     }
 
     public void mdkandgjl(View view) {
+        Intent mgintent=new Intent(transport.this,mdkandgjl.class);
+        startActivity(mgintent);
     }
 }
