@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".wellness"></activity>
+        <activity android:name=".bhelandp"></activity>
+        <activity android:name=".wellness" />
         <activity android:name=".sports1" />
         <activity android:name=".aboutus" />
         <activity android:name=".chemical" />
