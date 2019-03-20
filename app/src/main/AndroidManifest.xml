@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".secundrabad"></activity>
+        <activity android:name=".placement"/>
+        <activity android:name=".secundrabad"/>
         <activity android:name=".bhelandp" />
         <activity android:name=".wellness" />
         <activity android:name=".sports1" />
