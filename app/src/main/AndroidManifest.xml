@@ -9,7 +9,14 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".sports1"></activity>
+        <activity android:name=".medchal"></activity>
+        <activity android:name=".mdkandgjl" />
+        <activity android:name=".hostel" />
+        <activity android:name=".placement" />
+        <activity android:name=".secundrabad" />
+        <activity android:name=".bhelandp" />
+        <activity android:name=".wellness" />
+        <activity android:name=".sports1" />
         <activity android:name=".aboutus" />
         <activity android:name=".chemical" />
         <activity android:name=".contactus" />

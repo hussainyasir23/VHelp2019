@@ -29,15 +29,21 @@ public class transport extends Activity {
     }
 
     public void bhelandp(View view) {
+        Intent bintent=new Intent(transport.this,bhelandp.class);
+        startActivity(bintent);
     }
 
     public void balanagar(View view) {
     }
 
     public void medchal(View view) {
+        Intent mintent=new Intent(transport.this,medchal.class);
+        startActivity(mintent);
     }
 
     public void secundrabad(View view) {
+        Intent sintent=new Intent(transport.this,secundrabad.class);
+        startActivity(sintent);
     }
 
     public void lothukunta(View view) {
@@ -47,5 +53,7 @@ public class transport extends Activity {
     }
 
     public void mdkandgjl(View view) {
+        Intent mgintent=new Intent(transport.this,mdkandgjl.class);
+        startActivity(mgintent);
     }
 }

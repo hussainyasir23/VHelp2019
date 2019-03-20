@@ -11,7 +11,10 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="vertical">
+        android:orientation="vertical"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp">
 
         <ImageView
             android:id="@+id/imageView4"
@@ -39,7 +42,7 @@
             android:fontFamily="@font/oxygenregular"
             android:layout_marginLeft="15dp"
             android:textColor="@color/black"
-            android:layout_marginBottom="15dp"
+            android:layout_marginBottom="30dp"
             android:textSize="18.0dip"/>
 
         <ImageView
@@ -58,7 +61,6 @@
             android:textColor="@color/black"
             android:textSize="18sp"
             android:textStyle="bold|italic" />
-
 
         <ImageView
             android:id="@+id/imageView5"

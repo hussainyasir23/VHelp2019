@@ -47,4 +47,19 @@ public class HomeActivity extends Activity {
         Intent sportIntent = new Intent(HomeActivity.this,sports1.class);
         startActivity(sportIntent);
     }
+
+    public void wellc(View view) {
+        Intent wellIntent = new Intent(HomeActivity.this,wellness.class);
+        startActivity(wellIntent);
+    }
+
+    public void hostel(View view) {
+        Intent hostelIntent = new Intent(HomeActivity.this,hostel.class);
+        startActivity(hostelIntent);
+    }
+
+    public void placement(View view) {
+        Intent placeIntent = new Intent(HomeActivity.this,placement.class);
+        startActivity(placeIntent);
+    }
 }

@@ -4,8 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:layout_marginBottom="15dp"
-    tools:context=".jntu">
+    tools:context=".secundrabad">
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -19,7 +18,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:fontFamily="@font/oxygenregular"
-            android:text="Buses Going through JNTU"
+            android:text="Buses Going through Secundrabad"
             android:textAlignment="center"
             android:textColor="@color/black"
             android:textSize="16dp"
@@ -31,7 +30,7 @@
             android:layout_gravity="center_vertical"
             android:layout_marginBottom="10dp"
             android:fontFamily="@font/oxygenregular"
-            android:text="Route: 1J"
+            android:text="Route: 1S"
             android:textColor="@color/red"
             android:textSize="18dp"
             android:textStyle="bold" />
@@ -42,7 +41,7 @@
             android:layout_gravity="center_vertical"
             android:layout_marginBottom="5dp"
             android:fontFamily="@font/oxygenregular"
-            android:text="Faculty Incharge:\nJ. Suman"
+            android:text="Faculty Incharge:\nDr P.Srikanth Rao"
             android:textColor="@color/black"
             android:textSize="14dp" />
         <TextView
@@ -52,7 +51,7 @@
             android:layout_marginBottom="10dp"
             android:autoLink="phone"
             android:clickable="true"
-            android:text="+91 9553766222"
+            android:text="+91 9949222353"
             android:textColor="@color/black"
             android:textColorLink="@color/blue"
             android:textSize="14dp"
@@ -64,7 +63,7 @@
             android:layout_gravity="center_vertical"
             android:layout_marginBottom="5dp"
             android:fontFamily="@font/oxygenregular"
-            android:text="Driver:\nShivender"
+            android:text="Driver:\nRashad"
             android:textColor="@color/black"
             android:textSize="14dp" />
         <TextView
@@ -74,7 +73,7 @@
             android:layout_marginBottom="15dp"
             android:autoLink="phone"
             android:clickable="true"
-            android:text="+91 8639717854"
+            android:text="+91 9052786757"
             android:textColor="@color/black"
             android:textColorLink="@color/blue"
             android:textSize="14dp"
@@ -87,7 +86,7 @@
             android:layout_gravity="center_vertical"
             android:layout_marginBottom="10dp"
             android:fontFamily="@font/oxygenregular"
-            android:text="Route: 2J"
+            android:text="Route: 2S"
             android:textAllCaps="false"
             android:textColor="@color/red"
             android:textSize="18dp"
@@ -99,7 +98,7 @@
             android:layout_gravity="center_vertical"
             android:layout_marginBottom="5dp"
             android:fontFamily="@font/oxygenregular"
-            android:text="Faculty Incharge:\nM. Krishna Prasad"
+            android:text="Faculty Incharge:\nManzoor Hadi"
             android:textColor="@color/black"
             android:textSize="14dp" />
         <TextView
@@ -109,7 +108,7 @@
             android:layout_marginBottom="10dp"
             android:autoLink="phone"
             android:clickable="true"
-            android:text="+91 8142567942"
+            android:text="+91 9849613506"
             android:textColor="@color/black"
             android:textColorLink="@color/blue"
             android:textSize="14dp"
@@ -121,7 +120,7 @@
             android:layout_gravity="center_vertical"
             android:layout_marginBottom="5dp"
             android:fontFamily="@font/oxygenregular"
-            android:text="Driver:\nChakrapani"
+            android:text="Driver:\nSaddam"
             android:textColor="@color/black"
             android:textSize="14dp" />
         <TextView
@@ -131,7 +130,7 @@
             android:layout_marginBottom="15dp"
             android:autoLink="phone"
             android:clickable="true"
-            android:text="+91 9032867350"
+            android:text="+91 9121615108"
             android:textColor="@color/black"
             android:textColorLink="@color/blue"
             android:textSize="14dp"
@@ -143,7 +142,7 @@
             android:layout_gravity="center_vertical"
             android:layout_marginBottom="10dp"
             android:fontFamily="@font/oxygenregular"
-            android:text="Route: 3J"
+            android:text="Route: 3S"
             android:textAllCaps="false"
             android:textColor="@color/red"
             android:textSize="18dp"
@@ -155,7 +154,7 @@
             android:layout_gravity="center_vertical"
             android:layout_marginBottom="5dp"
             android:fontFamily="@font/oxygenregular"
-            android:text="Faculty Incharge:\n Durga Prasad"
+            android:text="Faculty Incharge:\n J.V.Ramana"
             android:textColor="@color/black"
             android:textSize="14dp" />
         <TextView
@@ -165,7 +164,7 @@
             android:layout_marginBottom="10dp"
             android:autoLink="phone"
             android:clickable="true"
-            android:text="+91 9290901526"
+            android:text="+91 9963683672"
             android:textColor="@color/black"
             android:textColorLink="@color/blue"
             android:textSize="14dp"
@@ -177,7 +176,7 @@
             android:layout_gravity="center_vertical"
             android:layout_marginBottom="5dp"
             android:fontFamily="@font/oxygenregular"
-            android:text="Driver:\nSrinivas Reddy"
+            android:text="Driver:\nShouqath"
             android:textColor="@color/black"
             android:textSize="14dp" />
         <TextView
@@ -187,7 +186,7 @@
             android:layout_marginBottom="15dp"
             android:autoLink="phone"
             android:clickable="true"
-            android:text="+91 8096108677"
+            android:text="+91 9030912772"
             android:textColor="@color/black"
             android:textColorLink="@color/blue"
             android:textSize="14dp"
@@ -199,7 +198,7 @@
             android:layout_gravity="center_vertical"
             android:layout_marginBottom="10dp"
             android:fontFamily="@font/oxygenregular"
-            android:text="Route: 5J"
+            android:text="Route: 4S"
             android:textAllCaps="false"
             android:textColor="@color/red"
             android:textSize="18dp"
@@ -211,7 +210,7 @@
             android:layout_gravity="center_vertical"
             android:layout_marginBottom="5dp"
             android:fontFamily="@font/oxygenregular"
-            android:text="Faculty Incharge:\n Anjith Kumar"
+            android:text="Faculty Incharge:\n T.Bharat Kumar"
             android:textColor="@color/black"
             android:textSize="14dp" />
         <TextView
@@ -221,7 +220,7 @@
             android:layout_marginBottom="10dp"
             android:autoLink="phone"
             android:clickable="true"
-            android:text="+91 9704851257"
+            android:text="+91 8790310859"
             android:textColor="@color/black"
             android:textColorLink="@color/blue"
             android:textSize="14dp"
@@ -233,7 +232,7 @@
             android:layout_gravity="center_vertical"
             android:layout_marginBottom="5dp"
             android:fontFamily="@font/oxygenregular"
-            android:text="Driver:\nTukaram"
+            android:text="Driver:\nMurali"
             android:textColor="@color/black"
             android:textSize="14dp" />
         <TextView
@@ -243,7 +242,7 @@
             android:layout_marginBottom="15dp"
             android:autoLink="phone"
             android:clickable="true"
-            android:text="+91 9381807947"
+            android:text="+91 8790409554"
             android:textColor="@color/black"
             android:textColorLink="@color/blue"
             android:textSize="14dp"
@@ -256,7 +255,7 @@
             android:layout_gravity="center_vertical"
             android:layout_marginBottom="10dp"
             android:fontFamily="@font/oxygenregular"
-            android:text="Route: 6J"
+            android:text="Route: 5S"
             android:textAllCaps="false"
             android:textColor="@color/red"
             android:textSize="18dp"
@@ -268,7 +267,7 @@
             android:layout_gravity="center_vertical"
             android:layout_marginBottom="5dp"
             android:fontFamily="@font/oxygenregular"
-            android:text="Faculty Incharge:\nK Purnachand"
+            android:text="Faculty Incharge:\nAmarendra Reddy"
             android:textColor="@color/black"
             android:textSize="14dp" />
         <TextView
@@ -278,7 +277,7 @@
             android:layout_marginBottom="10dp"
             android:autoLink="phone"
             android:clickable="true"
-            android:text="+91 9705690202"
+            android:text="+91 9948952051"
             android:textColor="@color/black"
             android:textColorLink="@color/blue"
             android:textSize="14dp"
@@ -290,7 +289,7 @@
             android:layout_gravity="center_vertical"
             android:layout_marginBottom="5dp"
             android:fontFamily="@font/oxygenregular"
-            android:text="Driver:\nLaxman"
+            android:text="Driver:\nKrishnam Raju"
             android:textColor="@color/black"
             android:textSize="14dp" />
         <TextView
@@ -300,7 +299,7 @@
             android:layout_marginBottom="15dp"
             android:autoLink="phone"
             android:clickable="true"
-            android:text="+91 8985139014"
+            android:text="+91 8328402021"
             android:textColor="@color/black"
             android:textColorLink="@color/blue"
             android:textSize="14dp"
@@ -313,7 +312,7 @@
             android:layout_gravity="center_vertical"
             android:layout_marginBottom="10dp"
             android:fontFamily="@font/oxygenregular"
-            android:text="Route: 7J"
+            android:text="Route: 6S"
             android:textAllCaps="false"
             android:textColor="@color/red"
             android:textSize="18dp"
@@ -325,7 +324,7 @@
             android:layout_gravity="center_vertical"
             android:layout_marginBottom="5dp"
             android:fontFamily="@font/oxygenregular"
-            android:text="Faculty Incharge:\n Dr. Naga Parameswari"
+            android:text="Faculty Incharge:\nN.Mangapathi"
             android:textColor="@color/black"
             android:textSize="14dp" />
         <TextView
@@ -335,7 +334,7 @@
             android:layout_marginBottom="10dp"
             android:autoLink="phone"
             android:clickable="true"
-            android:text="+91 9866267746"
+            android:text="+91 9701706621"
             android:textColor="@color/black"
             android:textColorLink="@color/blue"
             android:textSize="14dp"
@@ -347,7 +346,7 @@
             android:layout_gravity="center_vertical"
             android:layout_marginBottom="5dp"
             android:fontFamily="@font/oxygenregular"
-            android:text="Driver:\nJaveed"
+            android:text="Driver:\nKrishna"
             android:textColor="@color/black"
             android:textSize="14dp" />
         <TextView
@@ -357,235 +356,7 @@
             android:layout_marginBottom="15dp"
             android:autoLink="phone"
             android:clickable="true"
-            android:text="+91 9912851762"
-            android:textColor="@color/black"
-            android:textColorLink="@color/blue"
-            android:textSize="14dp"
-            android:textStyle="bold" />
-
-        <TextView
-            android:id="@+id/textView49"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center_vertical"
-            android:layout_marginBottom="10dp"
-            android:fontFamily="@font/oxygenregular"
-            android:text="Route: 8J"
-            android:textAllCaps="false"
-            android:textColor="@color/red"
-            android:textSize="18dp"
-            android:textStyle="bold" />
-        <TextView
-            android:id="@+id/textView50"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center_vertical"
-            android:layout_marginBottom="5dp"
-            android:fontFamily="@font/oxygenregular"
-            android:text="Faculty Incharge:\n Dr. B. Prabhakar Reddy"
-            android:textColor="@color/black"
-            android:textSize="14dp" />
-        <TextView
-            android:id="@+id/textView51"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginBottom="10dp"
-            android:autoLink="phone"
-            android:clickable="true"
-            android:text="+91 9963159601"
-            android:textColor="@color/black"
-            android:textColorLink="@color/blue"
-            android:textSize="14dp"
-            android:textStyle="bold" />
-        <TextView
-            android:id="@+id/textView52"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center_vertical"
-            android:layout_marginBottom="5dp"
-            android:fontFamily="@font/oxygenregular"
-            android:text="Driver:\nRavinder Reddy"
-            android:textColor="@color/black"
-            android:textSize="14dp" />
-        <TextView
-            android:id="@+id/textView53"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginBottom="15dp"
-            android:autoLink="phone"
-            android:clickable="true"
-            android:text="+91 8978668890"
-            android:textColor="@color/black"
-            android:textColorLink="@color/blue"
-            android:textSize="14dp"
-            android:textStyle="bold" />
-
-        <TextView
-            android:id="@+id/textView54"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center_vertical"
-            android:layout_marginBottom="10dp"
-            android:fontFamily="@font/oxygenregular"
-            android:text="Route: 9J"
-            android:textAllCaps="false"
-            android:textColor="@color/red"
-            android:textSize="18dp"
-            android:textStyle="bold" />
-        <TextView
-            android:id="@+id/textView55"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center_vertical"
-            android:layout_marginBottom="5dp"
-            android:fontFamily="@font/oxygenregular"
-            android:text="Faculty Incharge:\n Jagadeesh"
-            android:textColor="@color/black"
-            android:textSize="14dp" />
-        <TextView
-            android:id="@+id/textView56"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginBottom="10dp"
-            android:autoLink="phone"
-            android:clickable="true"
-            android:text="+91 9948081566"
-            android:textColor="@color/black"
-            android:textColorLink="@color/blue"
-            android:textSize="14dp"
-            android:textStyle="bold" />
-        <TextView
-            android:id="@+id/textView57"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center_vertical"
-            android:layout_marginBottom="5dp"
-            android:fontFamily="@font/oxygenregular"
-            android:text="Driver:\nNarsimha"
-            android:textColor="@color/black"
-            android:textSize="14dp" />
-        <TextView
-            android:id="@+id/textView58"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginBottom="15dp"
-            android:autoLink="phone"
-            android:clickable="true"
-            android:text="+91 9441142293"
-            android:textColor="@color/black"
-            android:textColorLink="@color/blue"
-            android:textSize="14dp"
-            android:textStyle="bold" />
-
-        <TextView
-            android:id="@+id/textView59"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center_vertical"
-            android:layout_marginBottom="10dp"
-            android:fontFamily="@font/oxygenregular"
-            android:text="Route: 10J"
-            android:textAllCaps="false"
-            android:textColor="@color/red"
-            android:textSize="18dp"
-            android:textStyle="bold" />
-        <TextView
-            android:id="@+id/textView60"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center_vertical"
-            android:layout_marginBottom="5dp"
-            android:fontFamily="@font/oxygenregular"
-            android:text="Faculty Incharge:\n Kausalya Nandan"
-            android:textColor="@color/black"
-            android:textSize="14dp" />
-        <TextView
-            android:id="@+id/textView61"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginBottom="10dp"
-            android:autoLink="phone"
-            android:clickable="true"
-            android:text="+91 9966635305"
-            android:textColor="@color/black"
-            android:textColorLink="@color/blue"
-            android:textSize="14dp"
-            android:textStyle="bold" />
-        <TextView
-            android:id="@+id/textView62"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center_vertical"
-            android:layout_marginBottom="5dp"
-            android:fontFamily="@font/oxygenregular"
-            android:text="Driver:\nG Ramesh"
-            android:textColor="@color/black"
-            android:textSize="14dp" />
-        <TextView
-            android:id="@+id/textView63"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginBottom="15dp"
-            android:autoLink="phone"
-            android:clickable="true"
-            android:text="+91 9502593535"
-            android:textColor="@color/black"
-            android:textColorLink="@color/blue"
-            android:textSize="14dp"
-            android:textStyle="bold" />
-
-        <TextView
-            android:id="@+id/textView64"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center_vertical"
-            android:layout_marginBottom="10dp"
-            android:fontFamily="@font/oxygenregular"
-            android:text="Route:11J"
-            android:textAllCaps="false"
-            android:textColor="@color/red"
-            android:textSize="18dp"
-            android:textStyle="bold" />
-        <TextView
-            android:id="@+id/textView65"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center_vertical"
-            android:layout_marginBottom="5dp"
-            android:fontFamily="@font/oxygenregular"
-            android:text="Faculty Incharge:\n V. Kishore"
-            android:textColor="@color/black"
-            android:textSize="14dp" />
-        <TextView
-            android:id="@+id/textView66"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginBottom="10dp"
-            android:autoLink="phone"
-            android:clickable="true"
-            android:text="+91 7893847227"
-            android:textColor="@color/black"
-            android:textColorLink="@color/blue"
-            android:textSize="14dp"
-            android:textStyle="bold" />
-        <TextView
-            android:id="@+id/textView67"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center_vertical"
-            android:layout_marginBottom="5dp"
-            android:fontFamily="@font/oxygenregular"
-            android:text="Driver:\nKrishna"
-            android:textColor="@color/black"
-            android:textSize="14dp" />
-        <TextView
-            android:id="@+id/textView68"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginBottom="15dp"
-            android:autoLink="phone"
-            android:clickable="true"
-            android:text="+91 9948807984"
+            android:text="+91 9441138904"
             android:textColor="@color/black"
             android:textColorLink="@color/blue"
             android:textSize="14dp"

@@ -1,25 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ScrollView
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".sports1">
+    tools:context=".placement">
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="vertical"
-        android:layout_marginTop="20dp"
-        android:layout_marginLeft="20dp"
-        android:layout_marginRight="20dp">
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp">
         <TextView
             android:id="@+id/textView0"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:fontFamily="@font/oxygenregular"
-            android:text="Sports And Fitness"
+            android:text="Training And Placement Cell"
             android:textAlignment="center"
             android:textColor="@color/black"
             android:textSize="20sp"
@@ -29,60 +28,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:fontFamily="@font/oxygenregular"
-            android:text="     Sports at BVRIT are an integral part of the curriculum for physical fitness, character building and development of leader ship qualities .confirming the reputation as one of the best sporting institutes in the state, BVRIT offers extensive facilities for sports and games. The institute maintains excellent grounds for cricket, volley ball, basketball, lawn tennis, track and field events."
-            android:textAlignment="textStart"
-            android:textAllCaps="false"
-            android:textColor="@color/black"
-            android:textSize="15dp"
-            android:layout_marginBottom="10dp"/>
-        <TextView
-            android:id="@+id/textView"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:fontFamily="@font/oxygenregular"
-            android:text="INDOOR SPORTS COMPLEX"
-            android:textAlignment="center"
-            android:textColor="@color/black"
-            android:textSize="20sp"
-            android:textStyle="bold" />
-        <ImageView
-            android:id="@+id/imageView9"
-            android:layout_width="match_parent"
-            android:layout_height="200dp"
-            android:src="@drawable/isc" />
-        <TextView
-            android:id="@+id/textView1"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:fontFamily="@font/oxygenregular"
-            android:text="     Indoor Sports Complex has been inaugurated by Sri K.V. Vishnu Raju, Chairman, Sri Vishnu Educational Society on 9th February 2019.\n     Indoor facilities like caroms, chess, table tennis, badminton, are also maintained. BVRIT students represent JNTU cricket, volley ball, basket ball teams and athletics. We take great pride in proclaiming that the institute‘s volleyball team has won the JNTU Volley Ball, team has won the JNTU Volleyball tournament consecutively for three years. BVRIT has also emerged winners at JNTU zonal level throw ball and basket ball in 2007."
-            android:textAlignment="textStart"
-            android:textAllCaps="false"
-            android:textColor="@color/black"
-            android:textSize="15dp"
-            android:layout_marginBottom="10dp"/>
-        <TextView
-            android:id="@+id/textView3"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:fontFamily="@font/oxygenregular"
-            android:text="GYM"
-            android:textAlignment="center"
-            android:textColor="@color/black"
-            android:textSize="20sp"
-            android:textStyle="bold" />
-
-        <ImageView
-            android:id="@+id/imageView10"
-            android:layout_width="match_parent"
-            android:layout_height="200dp"
-            android:src="@drawable/gym" />
-        <TextView
-            android:id="@+id/textView4"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:fontFamily="@font/oxygenregular"
-            android:text="A Gym has been established with Ultramodern equipment to provide the facilities for Day scholars as well as for the hostelers and staff members who stay in the campus."
+            android:text="The Training and placement Cell is committed to provide all possible assistance to its students in their efforts to find employment. This commitment is demonstrated by the existence of a full time professor in charge."
             android:textAlignment="textStart"
             android:textAllCaps="false"
             android:textColor="@color/black"
@@ -93,7 +39,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:fontFamily="@font/oxygenregular"
-            android:text="Mr. Narasimha Raju"
+            android:text="M Satish Paruchuri"
             android:textAlignment="center"
             android:textColor="@color/black"
             android:textSize="18dp"
@@ -106,7 +52,7 @@
             android:layout_gravity="center_vertical"
             android:layout_marginBottom="10dp"
             android:fontFamily="@font/oxygenregular"
-            android:text="-PET Incharge"
+            android:text="-Director, Industry Relations"
             android:textAlignment="center"
             android:textColor="@color/black"
             android:textSize="14dp" />
@@ -118,31 +64,31 @@
             android:layout_marginBottom="15dp"
             android:autoLink="phone"
             android:clickable="true"
-            android:text="+91 9490011666"
+            android:text="+91 9949485552"
             android:textAlignment="center"
             android:textColor="@color/black"
             android:textColorLink="@color/blue"
             android:textSize="14dp"
             android:textStyle="bold" />
         <TextView
-            android:id="@+id/textView5"
+            android:id="@+id/textView9"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:fontFamily="@font/oxygenregular"
-            android:text="Miss. Bhavani Poojari"
+            android:text="Mr. K Srinivas Reddy"
             android:textAlignment="center"
             android:textColor="@color/black"
             android:textSize="18dp"
             android:textStyle="bold" />
 
         <TextView
-            android:id="@+id/textView6"
+            android:id="@+id/textView8"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="center_vertical"
             android:layout_marginBottom="10dp"
             android:fontFamily="@font/oxygenregular"
-                android:text="-PET Incharge"
+            android:text="-Training and Placement Office"
             android:textAlignment="center"
             android:textColor="@color/black"
             android:textSize="14dp" />
@@ -151,10 +97,118 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
-            android:layout_marginBottom="20dp"
+            android:layout_marginBottom="15dp"
             android:autoLink="phone"
             android:clickable="true"
-            android:text="+91 85000835694"
+            android:text="+91 9704225552"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textColorLink="@color/blue"
+            android:textSize="14dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Dr. Ch. Madhu Babu"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="10dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="-Training and Placement Office"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="14dp" />
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="15dp"
+            android:autoLink="phone"
+            android:clickable="true"
+            android:text="+91 9949433572"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textColorLink="@color/blue"
+            android:textSize="14dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Mr. Niladri Shekhar Dey"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView18"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="10dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="-Training and Placement Office"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="14dp" />
+        <TextView
+            android:id="@+id/textView19"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="15dp"
+            android:autoLink="phone"
+            android:clickable="true"
+            android:text="+91 9542601772"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textColorLink="@color/blue"
+            android:textSize="14dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Dr. Ch Naga Parmeshwari"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView17"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="10dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="-Training and Placement Office"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="14dp" />
+        <TextView
+            android:id="@+id/textView16"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="15dp"
+            android:autoLink="phone"
+            android:clickable="true"
+            android:text="+91 9866267746"
             android:textAlignment="center"
             android:textColor="@color/black"
             android:textColorLink="@color/blue"
