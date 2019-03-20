@@ -278,7 +278,7 @@
             android:layout_marginBottom="10dp"
             android:autoLink="phone"
             android:clickable="true"
-            android:text="+91 "
+            android:text="+91 9705690202"
             android:textColor="@color/black"
             android:textColorLink="@color/blue"
             android:textSize="14dp"
