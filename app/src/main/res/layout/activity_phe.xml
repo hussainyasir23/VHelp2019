@@ -46,7 +46,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="V.Balchander\n - Assistant Professor"
+            android:text="V.Balchander"
             android:layout_marginBottom="10dp"
             android:textSize="18sp"
             android:textColor="@color/black"
@@ -74,7 +74,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="A.Divya\n -Assistant Professor"
+            android:text="A.Divya"
             android:layout_marginBottom="10dp"
             android:textSize="18sp"
             android:textColor="@color/black"
@@ -102,7 +102,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="MD.Basheeruddin\n -Assistant Professor"
+            android:text="MD.Basheeruddin"
             android:textColor="@color/black"
             android:layout_marginBottom="10dp"
             android:textSize="18sp"
@@ -130,7 +130,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="M.Preethi\n -Assistant Professor"
+            android:text="M.Preethi"
             android:textColor="@color/black"
             android:layout_marginBottom="10dp"
             android:textSize="18sp"
@@ -158,7 +158,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="B.Dhanalaxmi\n -Assistant Professor"
+            android:text="B.Dhanalaxmi"
             android:textColor="@color/black"
             android:layout_marginBottom="10dp"
             android:textSize="18sp"
@@ -186,7 +186,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Mr.Sai Siddhardh.M\n - Assistant Professor"
+            android:text="Mr.Sai Siddhardh.M"
             android:textColor="@color/black"
             android:layout_marginBottom="10dp"
             android:layout_marginTop="10dp"
@@ -214,7 +214,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="C.Pavani\n -Assistant Professor"
+            android:text="C.Pavan"
             android:layout_marginBottom="10dp"
             android:textColor="@color/black"
             android:layout_marginTop="10dp"
@@ -242,7 +242,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Mrs Archana\n -Assistant Professor"
+            android:text="Mrs Archana"
             android:layout_marginBottom="10dp"
             android:layout_marginTop="10dp"
             android:textColor="@color/black"
@@ -270,7 +270,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Dr.Nanda Kumar\n - Assistant Professor"
+            android:text="Dr.Nanda Kumar"
             android:textSize="18sp"
             android:textColor="@color/black"
             android:layout_marginBottom="10dp"
