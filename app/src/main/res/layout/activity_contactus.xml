@@ -19,7 +19,7 @@
             android:fontFamily="@font/oxygenregular"
             android:textAllCaps="false"
             android:textColor="@color/black"
-            android:text="VHelp 2019 is made for every student of BVRIT Narsapur.If you have any suggestions or queries regarding the app ping us through the Email Mentioned Below"
+            android:text="V-Help 2019 has been developed to help individuals access required data all under a single app.\n For any queries and suggestions write to us at our e-mail addresses."
             android:layout_marginBottom="10dp"/>
         <TextView
             android:id="@+id/t"

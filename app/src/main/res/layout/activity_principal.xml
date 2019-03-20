@@ -70,9 +70,9 @@
         <TextView
             android:id="@+id/textView2"
             android:layout_width="match_parent"
-            android:layout_height="350dp"
+            android:layout_height="300dp"
             android:fontFamily="@font/oxygenregular"
-            android:text=" Dr. Y. Krishna Reddy, the Principal of B. V. Raju Institute of Technology, Vishnupur, Narsapur, Medak District as earlier worked as professor of Mechanical Engineering CBIT, Hyderabad.\n He did his graduation from JNTUA, Anantapur(1976-81) and post-graduation from IIT Kharagpur (1981-83). He pursed his doctoral and research work at IIT Kharapur on fill time basis for 3 years on lien from CBIT. He had worked for two years in US on software projects. He has a passion for teaching. He is a life long learner. Learnt and taught many programming languages and CAD packages for Mechanical Engineering students. He was instrumental in computerization of academic and exam cell and controller of exams activities of CBIT."
+            android:text=" Dr. Y. Krishna Reddy, the Principal of B. V. Raju Institute of Technology, Vishnupur, Narsapur, Medak District has earlier worked as professor of Mechanical Engineering at CBIT, Hyderabad.\n He did his graduation from JNTU, Anantapur(1976-81) and post-graduation from IIT Kharagpur (1981-83). He pursed his doctoral and research work at IIT Kharagpur on full time basis for 3 years on lien from CBIT. He had worked for two years in the US on software projects. He has a passion for teaching and has learnt and taught many programming languages and CAD packages for Mechanical Engineering students."
             android:textAlignment="textStart"
             android:textAllCaps="false"
             android:textColor="@color/black"
