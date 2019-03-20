@@ -65,8 +65,9 @@
             android:id="@+id/sports"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Sports"
-            android:textSize="16sp" />
+            android:text="Sports And Fitness"
+            android:textSize="16sp"
+            android:onClick="sports1"/>
 
 
         <Button
