@@ -57,4 +57,9 @@ public class HomeActivity extends Activity {
         Intent hostelIntent = new Intent(HomeActivity.this,hostel.class);
         startActivity(hostelIntent);
     }
+
+    public void placement(View view) {
+        Intent placeIntent = new Intent(HomeActivity.this,placement.class);
+        startActivity(placeIntent);
+    }
 }
