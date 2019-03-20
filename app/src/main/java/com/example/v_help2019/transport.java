@@ -27,4 +27,25 @@ public class transport extends Activity {
         Intent miyapurIntent = new Intent(transport.this,miyapur.class);
         startActivity(miyapurIntent);
     }
+
+    public void bhelandp(View view) {
+    }
+
+    public void balanagar(View view) {
+    }
+
+    public void medchal(View view) {
+    }
+
+    public void secundrabad(View view) {
+    }
+
+    public void lothukunta(View view) {
+    }
+
+    public void sangareddy(View view) {
+    }
+
+    public void mdkandgjl(View view) {
+    }
 }

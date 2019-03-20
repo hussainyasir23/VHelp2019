@@ -77,6 +77,13 @@
             android:onClick="it"
             android:textSize="16sp" />
         <Button
+            android:id="@+id/chemical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="CHEMICAL"
+            android:onClick="chemical"
+            android:textSize="16sp" />
+        <Button
             android:id="@+id/bme"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

@@ -51,7 +51,7 @@
             android:layout_marginTop="10dp"
             android:layout_marginBottom="10dp"
             android:textSize="18sp"
-            android:text="Dr N Bhoopal\n - Professor"
+            android:text="Dr N Bhoopal"
             android:textColor="@color/black" />
         <TextView
             android:layout_width="wrap_content"
@@ -79,7 +79,7 @@
             android:layout_marginTop="10dp"
             android:layout_marginBottom="10dp"
             android:textSize="18sp"
-            android:text="J Bangarraju\n - Associate Professor"
+            android:text="J Bangarraju"
             android:textColor="@color/black" />
         <TextView
             android:layout_width="wrap_content"
@@ -106,7 +106,7 @@
             android:layout_marginLeft="10dp"
             android:layout_marginTop="10dp"
             android:layout_marginBottom="10dp"
-            android:text="N Ramachander\n - Associate Professor"
+            android:text="N Ramachander"
             android:textColor="@color/black"
             android:textSize="18sp"/>
         <TextView
@@ -134,7 +134,7 @@
             android:layout_marginLeft="10dp"
             android:layout_marginTop="10dp"
             android:layout_marginBottom="10dp"
-            android:text="K Rama Krishna\n - Associate Professor"
+            android:text="K Rama Krishna"
             android:textColor="@color/black"
             android:textSize="18sp"/>
         <TextView
@@ -162,7 +162,7 @@
             android:layout_marginLeft="10dp"
             android:layout_marginTop="10dp"
             android:layout_marginBottom="10dp"
-            android:text="Dr K.V.B Reddy\n - Professor"
+            android:text="Dr K.V.B Reddy"
             android:textColor="@color/black"
             android:textSize="20sp"/>
         <TextView
@@ -190,7 +190,7 @@
             android:layout_marginLeft="10dp"
             android:layout_marginTop="10dp"
             android:layout_marginBottom="10dp"
-            android:text="R Muneeshwar\n - Assistant Professor"
+            android:text="R Muneeshwar"
             android:textColor="@color/black"
             android:textSize="20sp"/>
         <TextView
@@ -218,7 +218,7 @@
             android:layout_marginLeft="10dp"
             android:layout_marginTop="10dp"
             android:layout_marginBottom="10dp"
-            android:text="K Santhosh\n - Assistant Professor"
+            android:text="K Santhosh"
             android:textColor="@color/black"
             android:textSize="20sp"/>
         <TextView
@@ -246,7 +246,7 @@
             android:layout_marginLeft="10dp"
             android:layout_marginTop="10dp"
             android:layout_marginBottom="10dp"
-            android:text="G Angit Kumar\n - Assistant Professor"
+            android:text="G Angit Kumar"
             android:textColor="@color/black"
             android:textSize="18sp"/>
         <TextView
@@ -274,7 +274,7 @@
             android:layout_marginLeft="10dp"
             android:layout_marginTop="10dp"
             android:layout_marginBottom="10dp"
-            android:text="K Mahesh\n - Assistant Professor"
+            android:text="K Mahesh"
             android:textColor="@color/black"
             android:textSize="18sp"/>
         <TextView
@@ -302,7 +302,7 @@
             android:layout_marginLeft="10dp"
             android:layout_marginTop="10dp"
             android:layout_marginBottom="10dp"
-            android:text="V.Dhanunjay\n - Assistant Professor"
+            android:text="V.Dhanunjay"
             android:textColor="@color/black"
             android:textSize="18sp"/>
         <TextView
@@ -329,7 +329,7 @@
             android:layout_marginLeft="10dp"
             android:layout_marginTop="10dp"
             android:layout_marginBottom="10dp"
-            android:text="D Ravi Karun Kumar Raju\n - Teaching Assistant"
+            android:text="D Ravi Karun Kumar Raju"
             android:textColor="@color/black"
             android:textSize="18sp"/>
         <TextView
@@ -356,7 +356,7 @@
             android:layout_marginLeft="10dp"
             android:layout_marginTop="10dp"
             android:layout_marginBottom="10dp"
-            android:text="G Naresh Kumar\n - Assistant Professor"
+            android:text="G Naresh Kumar"
             android:textColor="@color/black"
             android:textSize="18sp"/>
         <TextView
@@ -383,7 +383,7 @@
             android:layout_marginLeft="10dp"
             android:layout_marginTop="10dp"
             android:layout_marginBottom="10dp"
-            android:text="D Gireesh Kumar\n - Assistant Professor"
+            android:text="D Gireesh Kumar"
             android:textColor="@color/black"
             android:textSize="18sp"/>
         <TextView
@@ -410,7 +410,7 @@
             android:layout_marginLeft="10dp"
             android:layout_marginTop="10dp"
             android:layout_marginBottom="10dp"
-            android:text="A Vijay Kumar\n - Assistant Professor"
+            android:text="A Vijay Kumar"
             android:textColor="@color/black"
             android:textSize="18sp"/>
         <TextView
@@ -437,7 +437,7 @@
             android:layout_marginLeft="10dp"
             android:layout_marginTop="10dp"
             android:layout_marginBottom="10dp"
-            android:text="A Murali\n - Assistant Professor"
+            android:text="A Murali"
             android:textColor="@color/black"
             android:textSize="18sp"/>
         <TextView
@@ -464,7 +464,7 @@
             android:layout_marginLeft="10dp"
             android:layout_marginTop="10dp"
             android:layout_marginBottom="10dp"
-            android:text="Dr M Prameela\n - Assistant Professor"
+            android:text="Dr M Prameela"
             android:textColor="@color/black"
             android:textSize="18sp"/>
         <TextView
@@ -492,7 +492,7 @@
             android:layout_marginLeft="10dp"
             android:layout_marginTop="10dp"
             android:layout_marginBottom="10dp"
-            android:text="Y Vijay Kumar\n - Assistant Professor"
+            android:text="Y Vijay Kumar"
             android:textColor="@color/black"
             android:textSize="18sp"/>
         <TextView
@@ -519,7 +519,7 @@
             android:layout_marginLeft="10dp"
             android:layout_marginTop="10dp"
             android:layout_marginBottom="10dp"
-            android:text="P Chandra Babu\n - Assistant Professor"
+            android:text="P Chandra Babu"
             android:textColor="@color/black"
             android:textSize="18sp"/>
         <TextView
@@ -546,7 +546,7 @@
             android:layout_marginLeft="10dp"
             android:layout_marginTop="10dp"
             android:layout_marginBottom="10dp"
-            android:text="T Ram Babu\n - Assistant Professor"
+            android:text="T Ram Babu"
             android:textColor="@color/black"
             android:textSize="18sp"/>
         <TextView
@@ -573,7 +573,7 @@
             android:layout_marginLeft="10dp"
             android:layout_marginTop="10dp"
             android:layout_marginBottom="10dp"
-            android:text="MD Jani Pasha\n - Assistant Professor"
+            android:text="MD Jani Pasha"
             android:textColor="@color/black"
             android:textSize="18sp"/>
         <TextView
@@ -600,7 +600,7 @@
             android:layout_marginLeft="10dp"
             android:layout_marginTop="10dp"
             android:layout_marginBottom="10dp"
-            android:text="A Chandra Sekhar\n - Assistant Professor"
+            android:text="A Chandra Sekhar"
             android:textColor="@color/black"
             android:textSize="18sp"/>
         <TextView
@@ -627,7 +627,7 @@
             android:layout_marginLeft="10dp"
             android:layout_marginTop="10dp"
             android:layout_marginBottom="10dp"
-            android:text="K Hareesh Kumar\n - Assistant Professor"
+            android:text="K Hareesh Kumar"
             android:textColor="@color/black"
             android:textSize="18sp"/>
         <TextView
@@ -654,7 +654,7 @@
             android:layout_marginLeft="10dp"
             android:layout_marginTop="10dp"
             android:layout_marginBottom="10dp"
-            android:text="R Ganesh\n - Assistant Professor"
+            android:text="R Ganesh"
             android:textColor="@color/black"
             android:textSize="18sp"/>
         <TextView
@@ -681,7 +681,7 @@
             android:layout_marginLeft="10dp"
             android:layout_marginTop="10dp"
             android:layout_marginBottom="10dp"
-            android:text="K Sainadh Singh\n - Assistant Professor"
+            android:text="K Sainadh Singh"
             android:textColor="@color/black"
             android:textSize="18sp"/>
         <TextView
@@ -708,7 +708,7 @@
             android:layout_marginLeft="10dp"
             android:layout_marginTop="10dp"
             android:layout_marginBottom="10dp"
-            android:text="Dr C Subba Rami Reddy\n - Professor"
+            android:text="Dr C Subba Rami Reddy"
             android:textColor="@color/black"
             android:textSize="18sp"/>
         <TextView
@@ -735,7 +735,7 @@
             android:layout_marginLeft="10dp"
             android:layout_marginTop="10dp"
             android:layout_marginBottom="10dp"
-            android:text="Dr S Saravanan\n - Professor"
+            android:text="Dr S Saravanan"
             android:textColor="@color/black"
             android:textSize="18sp"/>
         <TextView
@@ -762,7 +762,7 @@
             android:layout_marginLeft="10dp"
             android:layout_marginTop="10dp"
             android:layout_marginBottom="10dp"
-            android:text="S Srinivasu\n - Assistant Professor"
+            android:text="S Srinivasu"
             android:textColor="@color/black"
             android:textSize="18sp"/>
         <TextView
@@ -789,7 +789,7 @@
             android:layout_marginLeft="10dp"
             android:layout_marginTop="10dp"
             android:layout_marginBottom="10dp"
-            android:text="S Sreenu\n - Assistant Professor"
+            android:text="S Sreenu"
             android:textColor="@color/black"
             android:textSize="18sp"/>
         <TextView
