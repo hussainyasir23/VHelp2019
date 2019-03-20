@@ -29,6 +29,8 @@ public class transport extends Activity {
     }
 
     public void bhelandp(View view) {
+        Intent bintent=new Intent(transport.this,bhelandp.class);
+        startActivity(bintent);
     }
 
     public void balanagar(View view) {
@@ -38,6 +40,8 @@ public class transport extends Activity {
     }
 
     public void secundrabad(View view) {
+        Intent sintent=new Intent(transport.this,secundrabad.class);
+        startActivity(sintent);
     }
 
     public void lothukunta(View view) {
