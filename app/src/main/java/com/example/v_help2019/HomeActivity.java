@@ -52,4 +52,9 @@ public class HomeActivity extends Activity {
         Intent wellIntent = new Intent(HomeActivity.this,wellness.class);
         startActivity(wellIntent);
     }
+
+    public void hostel(View view) {
+        Intent hostelIntent = new Intent(HomeActivity.this,hostel.class);
+        startActivity(hostelIntent);
+    }
 }
