@@ -42,4 +42,9 @@ public class HomeActivity extends Activity {
         Intent aboutIntent = new Intent(HomeActivity.this,aboutus.class);
         startActivity(aboutIntent);
     }
+
+    public void sports1(View view) {
+        Intent sportIntent = new Intent(HomeActivity.this,sports1.class);
+        startActivity(sportIntent);
+    }
 }
