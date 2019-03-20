@@ -32,4 +32,9 @@ public class HomeActivity extends Activity {
         Intent transportIntent = new Intent(HomeActivity.this,transport.class);
         startActivity(transportIntent);
     }
+
+    public void contactus(View view) {
+        Intent conIntent = new Intent(HomeActivity.this,contactus.class);
+        startActivity(conIntent);
+    }
 }
