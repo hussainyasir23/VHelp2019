@@ -9,7 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".jntu"></activity>
+        <activity android:name=".miyapur"></activity>
+        <activity android:name=".nizampet" />
+        <activity android:name=".jntu" />
         <activity android:name=".transport" />
         <activity android:name=".mba" />
         <activity android:name=".phe" />

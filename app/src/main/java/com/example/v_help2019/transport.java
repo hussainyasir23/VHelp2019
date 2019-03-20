@@ -17,4 +17,14 @@ public class transport extends Activity {
         Intent jntuIntent = new Intent(transport.this,jntu.class);
         startActivity(jntuIntent);
     }
+
+    public void nizampet(View view) {
+        Intent nizamIntent = new Intent(transport.this,nizampet.class);
+        startActivity(nizamIntent);
+    }
+
+    public void miyapur(View view) {
+        Intent miyapurIntent = new Intent(transport.this,miyapur.class);
+        startActivity(miyapurIntent);
+    }
 }

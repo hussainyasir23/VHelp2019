@@ -189,8 +189,21 @@
             android:layout_height="wrap_content"
             android:text="JNTU"
             android:textSize="16sp"
-            android:onClick="jntu"
-            android:layout_marginBottom="15dp"/>
+            android:onClick="jntu" />
+        <Button
+            android:id="@+id/nizampet"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="NIZAMPET"
+            android:textSize="16sp"
+            android:onClick="nizampet" />
+        <Button
+            android:id="@+id/miyapur"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="MIYAPUR"
+            android:textSize="16sp"
+            android:onClick="miyapur" />
 
     </LinearLayout>
 </ScrollView>
