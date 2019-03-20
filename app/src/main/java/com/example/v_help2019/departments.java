@@ -62,4 +62,9 @@ public class departments extends Activity {
         Intent mbaintent=new Intent(departments.this,mba.class);
         startActivity(mbaintent);
     }
+
+    public void chemical(View view) {
+        Intent chemintent=new Intent(departments.this,chemical.class);
+        startActivity(chemintent);
+    }
 }

@@ -37,4 +37,9 @@ public class HomeActivity extends Activity {
         Intent conIntent = new Intent(HomeActivity.this,contactus.class);
         startActivity(conIntent);
     }
+
+    public void aboutus(View view) {
+        Intent aboutIntent = new Intent(HomeActivity.this,aboutus.class);
+        startActivity(aboutIntent);
+    }
 }

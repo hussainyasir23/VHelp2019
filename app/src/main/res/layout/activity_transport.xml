@@ -13,7 +13,8 @@
         android:orientation="vertical"
         android:layout_marginRight="15dp"
         android:layout_marginLeft="15dp"
-        android:layout_marginTop="15dp">
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="20dp">
 
         <TextView
             android:id="@+id/textView"
@@ -38,7 +39,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:fontFamily="@font/oxygenregular"
-            android:text="BVRIT is located around 50 Kms away from Hyderabad at Narsapur, Medak (District). One can reach only by road. More than 55 college buses are plying from various corners of Hyderabad, from Sangareddy, Medak, etc."
+            android:text="BVRIT is located around 50 Kms away from Hyderabad in Narsapur, Medak, Telangana. BVRIT has an extensive Bus facility comprising of over 65 buses plying from all corners of Hyderabad, Sangareddy, Medak and Gajwel."
             android:textAlignment="textStart"
             android:textAllCaps="false"
             android:textColor="@color/black"
@@ -204,6 +205,55 @@
             android:text="MIYAPUR"
             android:textSize="16sp"
             android:onClick="miyapur" />
-
+        <Button
+            android:id="@+id/bhelandp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="BHEL and Patancheru"
+            android:textSize="16sp"
+            android:onClick="bhelandp" />
+        <Button
+            android:id="@+id/balanagar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="BALANAGAR"
+            android:textSize="16sp"
+            android:onClick="balanagar" />
+        <Button
+            android:id="@+id/medchal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="MEDCHAL"
+            android:textSize="16sp"
+            android:onClick="medchal" />
+        <Button
+            android:id="@+id/secundrabad"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="SECUNDERABAD"
+            android:textSize="16sp"
+            android:onClick="secundrabad" />
+        <Button
+            android:id="@+id/lothukunta"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="LOTHUKUNTA"
+            android:textSize="16sp"
+            android:onClick="lothukunta" />
+        <Button
+            android:id="@+id/sangareddy"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="SANGAREDDY"
+            android:textSize="16sp"
+            android:onClick="sangareddy" />
+        <Button
+            android:id="@+id/mdkandgjl"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="MEDAK and GAJWEL"
+            android:textSize="16sp"
+            android:onClick="mdkandgjl"
+            android:layout_marginBottom="15dp"/>
     </LinearLayout>
 </ScrollView>
