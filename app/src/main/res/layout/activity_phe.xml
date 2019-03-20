@@ -26,6 +26,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="+91 9246237117"
+            android:textColorLink="@color/blue"
             android:autoLink="phone"
             android:textAlignment="center"
             android:layout_marginBottom="10dp"
@@ -40,6 +41,7 @@
             android:layout_marginLeft="10dp"
             android:layout_marginBottom="10dp"
             android:autoLink="email"
+            android:textColorLink="@color/blue"
             android:text="vishnu.p@bvrit.ac.in"
             android:fontFamily="monospace"/>
 
