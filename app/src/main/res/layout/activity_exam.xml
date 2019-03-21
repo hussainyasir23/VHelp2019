@@ -11,9 +11,340 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="vertical"
-        android:layout_marginTop="15dp"
-        android:layout_marginLeft="15dp"
-        android:layout_marginRight="15dp">
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp">
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Examination Branch"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="24dp"
+            android:textStyle="bold"
+            android:layout_marginBottom="15dp"/>
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Dr K Murali Krishna Sarma"
+            android:textColor="@color/black"
+            android:textSize="18dp"
+            android:textStyle="bold" />
 
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="5dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Associate Professor\nBS H"
+            android:textColor="@color/black"
+            android:textSize="14dp" />
+        <TextView
+            android:id="@+id/textView7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:autoLink="phone"
+            android:clickable="true"
+            android:text="+91 9848438519"
+            android:textColor="@color/black"
+            android:textColorLink="@color/blue"
+            android:textSize="16dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Mr. Ch V S R R Varma"
+            android:textColor="@color/black"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="5dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Examination Branch"
+            android:textColor="@color/black"
+            android:textSize="14dp" />
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:autoLink="phone"
+            android:clickable="true"
+            android:text="+91 9441036666"
+            android:textColor="@color/black"
+            android:textColorLink="@color/blue"
+            android:textSize="16dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Mr. K Rayudu"
+            android:textColor="@color/black"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="5dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Additional Controller Of Examinations"
+            android:textColor="@color/black"
+            android:textSize="14dp" />
+        <TextView
+            android:id="@+id/textView13"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:autoLink="phone"
+            android:clickable="true"
+            android:text="+91 9959599839"
+            android:textColor="@color/black"
+            android:textColorLink="@color/blue"
+            android:textSize="16dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Dr B Venkata Swamy"
+            android:textColor="@color/black"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView15"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="5dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Additional Controller Of Examinations"
+            android:textColor="@color/black"
+            android:textSize="14dp" />
+        <TextView
+            android:id="@+id/textView16"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:autoLink="phone"
+            android:clickable="true"
+            android:text="+91 9666250574"
+            android:textColor="@color/black"
+            android:textColorLink="@color/blue"
+            android:textSize="16dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView17"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Dr A Varun"
+            android:textColor="@color/black"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView18"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="5dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Additional Controller Of Examinations"
+            android:textColor="@color/black"
+            android:textSize="14dp" />
+        <TextView
+            android:id="@+id/textView19"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:autoLink="phone"
+            android:clickable="true"
+            android:text="+91 9494226711"
+            android:textColor="@color/black"
+            android:textColorLink="@color/blue"
+            android:textSize="16dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView20"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Mr. A Swamy Goud"
+            android:textColor="@color/black"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView21"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="5dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Additional Controller Of Examinations"
+            android:textColor="@color/black"
+            android:textSize="14dp" />
+        <TextView
+            android:id="@+id/textView22"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:autoLink="phone"
+            android:clickable="true"
+            android:text="+91 9666250574"
+            android:textColor="@color/black"
+            android:textColorLink="@color/blue"
+            android:textSize="16dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView23"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Mr T Satish Babu"
+            android:textColor="@color/black"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView24"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="5dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Additional Controller Of Examinations"
+            android:textColor="@color/black"
+            android:textSize="14dp" />
+        <TextView
+            android:id="@+id/textView25"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:autoLink="phone"
+            android:clickable="true"
+            android:text="+91 99548616780"
+            android:textColor="@color/black"
+            android:textColorLink="@color/blue"
+            android:textSize="16dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView26"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Mr. A Ramakrishnam Raju"
+            android:textColor="@color/black"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView27"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="5dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Assistant Administrative Officer"
+            android:textColor="@color/black"
+            android:textSize="14dp" />
+        <TextView
+            android:id="@+id/textView28"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:autoLink="phone"
+            android:clickable="true"
+            android:text="+91 9959599839"
+            android:textColor="@color/black"
+            android:textColorLink="@color/blue"
+            android:textSize="16dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView29"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Mr. G Vinod Kumar"
+            android:textColor="@color/black"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView30"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="5dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Senior Assistant"
+            android:textColor="@color/black"
+            android:textSize="14dp" />
+        <TextView
+            android:id="@+id/textView31"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:autoLink="phone"
+            android:clickable="true"
+            android:text="+91 9666592283"
+            android:textColor="@color/black"
+            android:textColorLink="@color/blue"
+            android:textSize="16dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView32"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Mr. K Thirumala Reddy"
+            android:textColor="@color/black"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView33"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="5dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Senior Assistant"
+            android:textColor="@color/black"
+            android:textSize="14dp" />
+        <TextView
+            android:id="@+id/textView34"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:autoLink="phone"
+            android:clickable="true"
+            android:text="+91 9393625869"
+            android:textColor="@color/black"
+            android:textColorLink="@color/blue"
+            android:textSize="16dp"
+            android:textStyle="bold" />
     </LinearLayout>
 </ScrollView>

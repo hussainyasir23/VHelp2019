@@ -14,6 +14,305 @@
         android:layout_marginTop="15dp"
         android:layout_marginLeft="15dp"
         android:layout_marginRight="15dp">
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Network, IT And Support"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:layout_marginBottom="15dp"/>
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Mr. Madhu"
+            android:textColor="@color/black"
+            android:textSize="18dp"
+            android:textStyle="bold" />
 
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="5dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Network And IT Support"
+            android:textColor="@color/black"
+            android:textSize="14dp" />
+        <TextView
+            android:id="@+id/textView7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:autoLink="phone"
+            android:clickable="true"
+            android:text="+91 9000480084"
+            android:textColor="@color/black"
+            android:textColorLink="@color/blue"
+            android:textSize="16dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Mr. B Ganesh Babu"
+            android:textColor="@color/black"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="5dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="System Adminstrator"
+            android:textColor="@color/black"
+            android:textSize="14dp" />
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:autoLink="phone"
+            android:clickable="true"
+            android:text="+91 8458222072"
+            android:textColor="@color/black"
+            android:textColorLink="@color/blue"
+            android:textSize="16dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Mr. G Sivaiah"
+            android:textColor="@color/black"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="5dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="System Engineer"
+            android:textColor="@color/black"
+            android:textSize="14dp" />
+        <TextView
+            android:id="@+id/textView13"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:autoLink="email"
+            android:clickable="true"
+            android:text="shiva@bvrit.ac.in"
+            android:textColor="@color/black"
+            android:textColorLink="@color/blue"
+            android:textSize="16dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Mr. Srihari Naidu"
+            android:textColor="@color/black"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView15"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="5dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="System Technician"
+            android:textColor="@color/black"
+            android:textSize="14dp" />
+        <TextView
+            android:id="@+id/textView16"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:autoLink="email"
+            android:clickable="true"
+            android:text="srihari.mamillapalli@bvrit.ac.in"
+            android:textColor="@color/black"
+            android:textColorLink="@color/blue"
+            android:textSize="16dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView17"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Mr. K Venkata Rao"
+            android:textColor="@color/black"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView18"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="5dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Network Technician"
+            android:textColor="@color/black"
+            android:textSize="14dp" />
+        <TextView
+            android:id="@+id/textView19"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:autoLink="phone"
+            android:clickable="true"
+            android:text="+91 9490319033"
+            android:textColor="@color/black"
+            android:textColorLink="@color/blue"
+            android:textSize="16dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView20"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Mr. Jagadeesh Dandu"
+            android:textColor="@color/black"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView21"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="5dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Programmer"
+            android:textColor="@color/black"
+            android:textSize="14dp" />
+        <TextView
+            android:id="@+id/textView22"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:autoLink="phone"
+            android:clickable="true"
+            android:text="+91 9948081566"
+            android:textColor="@color/black"
+            android:textColorLink="@color/blue"
+            android:textSize="16dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView23"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Mr. V S Raju Pericherla"
+            android:textColor="@color/black"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView24"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="5dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Electrical Supervisor"
+            android:textColor="@color/black"
+            android:textSize="14dp" />
+        <TextView
+            android:id="@+id/textView25"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:autoLink="phone"
+            android:clickable="true"
+            android:text="+91 9441079759"
+            android:textColor="@color/black"
+            android:textColorLink="@color/blue"
+            android:textSize="16dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView26"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Mr. Riyaz"
+            android:textColor="@color/black"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView27"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="5dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="AC Technician"
+            android:textColor="@color/black"
+            android:textSize="14dp" />
+        <TextView
+            android:id="@+id/textView28"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:autoLink="phone"
+            android:clickable="true"
+            android:text="+91 9908744701"
+            android:textColor="@color/black"
+            android:textColorLink="@color/blue"
+            android:textSize="16dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView29"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Mr. B Anjaneyulu"
+            android:textColor="@color/black"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView30"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="5dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="Electrical Technician"
+            android:textColor="@color/black"
+            android:textSize="14dp" />
+        <TextView
+            android:id="@+id/textView31"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="25dp"
+            android:autoLink="phone"
+            android:clickable="true"
+            android:text="+91 9490771966"
+            android:textColor="@color/black"
+            android:textColorLink="@color/blue"
+            android:textSize="16dp"
+            android:textStyle="bold" />
     </LinearLayout>
 </ScrollView>

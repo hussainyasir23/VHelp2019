@@ -69,42 +69,7 @@
             android:textColor="@color/black"
             android:textSize="14dp"
             android:layout_marginBottom="10dp"/>
-        <TextView
-            android:id="@+id/textView5"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:fontFamily="@font/oxygenregular"
-            android:text="Mr. K. Durga Prasad"
-            android:textAlignment="center"
-            android:textColor="@color/black"
-            android:textSize="18dp"
-            android:textStyle="bold" />
 
-        <TextView
-            android:id="@+id/textView6"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center_vertical"
-            android:layout_marginBottom="10dp"
-            android:fontFamily="@font/oxygenregular"
-            android:text="Associate Professor\nDepartment of IT"
-            android:textAlignment="center"
-            android:textColor="@color/black"
-            android:textSize="14dp" />
-        <TextView
-            android:id="@+id/textView7"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center_horizontal"
-            android:layout_marginBottom="15dp"
-            android:autoLink="phone"
-            android:clickable="true"
-            android:text="+91 85000835694"
-            android:textAlignment="center"
-            android:textColor="@color/black"
-            android:textColorLink="@color/blue"
-            android:textSize="14dp"
-            android:textStyle="bold" />
         <TextView
             android:id="@+id/textView8"
             android:layout_width="wrap_content"
@@ -293,6 +258,6 @@
             android:text="MEDAK and GAJWEL"
             android:textSize="16sp"
             android:onClick="mdkandgjl"
-            android:layout_marginBottom="15dp"/>
+            android:layout_marginBottom="25dp"/>
     </LinearLayout>
 </ScrollView>

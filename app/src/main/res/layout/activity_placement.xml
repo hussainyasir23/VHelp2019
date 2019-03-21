@@ -68,7 +68,7 @@
             android:textAlignment="center"
             android:textColor="@color/black"
             android:textColorLink="@color/blue"
-            android:textSize="14dp"
+            android:textSize="16dp"
             android:textStyle="bold" />
         <TextView
             android:id="@+id/textView9"
@@ -104,7 +104,7 @@
             android:textAlignment="center"
             android:textColor="@color/black"
             android:textColorLink="@color/blue"
-            android:textSize="14dp"
+            android:textSize="16dp"
             android:textStyle="bold" />
         <TextView
             android:id="@+id/textView6"
@@ -140,7 +140,7 @@
             android:textAlignment="center"
             android:textColor="@color/black"
             android:textColorLink="@color/blue"
-            android:textSize="14dp"
+            android:textSize="16dp"
             android:textStyle="bold" />
         <TextView
             android:id="@+id/textView3"
@@ -176,7 +176,7 @@
             android:textAlignment="center"
             android:textColor="@color/black"
             android:textColorLink="@color/blue"
-            android:textSize="14dp"
+            android:textSize="16dp"
             android:textStyle="bold" />
         <TextView
             android:id="@+id/textView14"
@@ -212,7 +212,7 @@
             android:textAlignment="center"
             android:textColor="@color/black"
             android:textColorLink="@color/blue"
-            android:textSize="14dp"
+            android:textSize="16dp"
             android:textStyle="bold" />
 
     </LinearLayout>
