@@ -90,13 +90,15 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Examination Branch"
-            android:textSize="16sp" />
+            android:textSize="16sp"
+            android:onClick="exam"/>
         <Button
             android:id="@+id/randd"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Research And Development"
-            android:textSize="16sp" />
+            android:textSize="16sp"
+            android:onClick="randd"/>
 
 
 
@@ -121,7 +123,8 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Clubs"
-            android:textSize="16sp" />
+            android:textSize="16sp"
+            android:onClick="club"/>
 
         <Button
             android:id="@+id/adminandaccounts"
@@ -135,7 +138,8 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Network and it"
-            android:textSize="16sp" />
+            android:textSize="16sp"
+            android:onClick="netit"/>
 
 
         <Button

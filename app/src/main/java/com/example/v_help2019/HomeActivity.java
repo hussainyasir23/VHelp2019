@@ -67,4 +67,24 @@ public class HomeActivity extends Activity {
         Intent aaaIntent = new Intent(HomeActivity.this,adminacc.class);
         startActivity(aaaIntent);
     }
+
+    public void netit(View view) {
+        Intent netIntent = new Intent(HomeActivity.this,adminacc.class);
+        startActivity(netIntent);
+    }
+
+    public void club(View view) {
+        Intent clubIntent = new Intent(HomeActivity.this,club.class);
+        startActivity(clubIntent);
+    }
+
+    public void randd(View view) {
+        Intent rdIntent = new Intent(HomeActivity.this,randd.class);
+        startActivity(rdIntent);
+    }
+
+    public void exam(View view) {
+        Intent exaIntent = new Intent(HomeActivity.this,exam.class);
+        startActivity(exaIntent);
+    }
 }
