@@ -62,4 +62,7 @@ public class HomeActivity extends Activity {
         Intent placeIntent = new Intent(HomeActivity.this,placement.class);
         startActivity(placeIntent);
     }
+
+    public void adminacc(View view) {
+    }
 }

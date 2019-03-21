@@ -128,7 +128,8 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Admin And Accounts"
-            android:textSize="16sp" />
+            android:textSize="16sp"
+            android:onClick="adminacc"/>
         <Button
             android:id="@+id/networkandit"
             android:layout_width="match_parent"
