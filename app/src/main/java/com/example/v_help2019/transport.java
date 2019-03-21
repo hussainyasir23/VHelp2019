@@ -49,9 +49,14 @@ public class transport extends Activity {
     }
 
     public void lothukunta(View view) {
+        Intent lointent=new Intent(transport.this,lothukunta.class);
+        startActivity(lointent);
     }
 
     public void sangareddy(View view) {
+        Intent srdintent=new Intent(transport.this,sangareddy.class);
+        startActivity(srdintent);
+
     }
 
     public void mdkandgjl(View view) {

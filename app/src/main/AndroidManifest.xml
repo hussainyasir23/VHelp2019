@@ -11,6 +11,8 @@
         android:theme="@style/AppTheme">
         <activity android:name=".randd"></activity>
         <activity android:name=".exam" />
+        <activity android:name=".sangareddy" />
+        <activity android:name=".lothukunta" />
         <activity android:name=".club" />
         <activity android:name=".networkit" />
         <activity android:name=".medchal" />
