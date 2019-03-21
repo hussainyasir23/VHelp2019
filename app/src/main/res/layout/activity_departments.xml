@@ -11,7 +11,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="vertical"
-        android:layout_marginTop="25dp"
         android:layout_marginRight="25dp"
         android:layout_marginLeft="25dp">
 
@@ -30,80 +29,113 @@
             android:id="@+id/bsh"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:background="@drawable/shape2"
+            android:fontFamily="@font/quicksandbold"
             android:text="BS H"
             android:onClick="bsh"
-            android:textSize="16sp" />
+            android:textSize="20sp"
+            android:layout_marginBottom="7dp"/>
         <Button
             android:id="@+id/cse"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:background="@drawable/shape2"
+            android:fontFamily="@font/quicksandbold"
             android:text="CSE"
             android:onClick="cse"
-            android:textSize="16sp" />
+            android:textSize="20sp"
+            android:layout_marginBottom="7dp"/>
 
         <Button
             android:id="@+id/ece"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:background="@drawable/shape2"
+            android:fontFamily="@font/quicksandbold"
             android:text="ECE"
             android:onClick="ece"
-            android:textSize="16sp" />
+            android:textSize="20sp"
+            android:layout_marginBottom="7dp"/>
         <Button
             android:id="@+id/eee"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:background="@drawable/shape2"
+            android:fontFamily="@font/quicksandbold"
             android:text="EEE"
             android:onClick="eee"
-            android:textSize="16sp" />
+            android:textSize="20sp"
+            android:layout_marginBottom="7dp"/>
         <Button
             android:id="@+id/mech"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:background="@drawable/shape2"
+            android:fontFamily="@font/quicksandbold"
             android:text="MECH"
             android:onClick="mech"
-            android:textSize="16sp" />
+            android:textSize="20sp"
+            android:layout_marginBottom="7dp"/>
         <Button
             android:id="@+id/civil"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:background="@drawable/shape2"
+            android:fontFamily="@font/quicksandbold"
             android:text="CIVIL"
             android:onClick="civil"
-            android:textSize="16sp" />
+            android:textSize="20sp"
+            android:layout_marginBottom="7dp"/>
         <Button
             android:id="@+id/it"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:background="@drawable/shape2"
+            android:fontFamily="@font/quicksandbold"
             android:text="IT"
             android:onClick="it"
-            android:textSize="16sp" />
+            android:textSize="20sp"
+            android:layout_marginBottom="7dp"/>
         <Button
             android:id="@+id/chemical"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:background="@drawable/shape2"
+            android:fontFamily="@font/quicksandbold"
             android:text="CHEMICAL"
             android:onClick="chemical"
-            android:textSize="16sp" />
+            android:textSize="20sp"
+            android:layout_marginBottom="7dp"/>
         <Button
             android:id="@+id/bme"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:background="@drawable/shape2"
+            android:fontFamily="@font/quicksandbold"
             android:text="BME"
             android:onClick="bme"
-            android:textSize="16sp" />
+            android:textSize="20sp"
+            android:layout_marginBottom="7dp"/>
         <Button
             android:id="@+id/phe"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:background="@drawable/shape2"
+            android:fontFamily="@font/quicksandbold"
             android:text="PHE"
             android:onClick="phe"
-            android:textSize="16sp" />
+            android:textSize="20sp"
+            android:layout_marginBottom="7dp"/>
         <Button
             android:id="@+id/mba"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:background="@drawable/shape2"
+            android:fontFamily="@font/quicksandbold"
             android:text="MBA"
             android:onClick="mba"
-            android:textSize="16sp" />
+            android:textSize="20sp"
+            android:layout_marginBottom="7dp"/>
 
 
     </LinearLayout>

@@ -5,7 +5,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    tools:context=".HomeActivity">
+    tools:context=".HomeActivity"
+    >
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -20,7 +21,7 @@
             android:id="@+id/text"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_gravity="center_horizontal"
+            android:layout_gravity="center_vertical"
             android:fontFamily="sans-serif"
             android:text="Welcome to V-HELP 2019"
             android:textAlignment="center"
@@ -32,118 +33,225 @@
 
         <Button
             android:id="@+id/aboutus"
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="About Us"
-            android:textSize="16sp"
+            android:layout_gravity="center"
+            android:padding="5dp"
+            android:background="@drawable/shape"
+            android:fontFamily="@font/quicksandbold"
+            android:textAllCaps="false"
+            android:drawableRight="@drawable/ic_chevron_right_black_24dp"
+            android:textSize="20sp"
+            android:text="  About Us "
+            android:layout_marginBottom="7dp"
             android:onClick="aboutus"/>
         <Button
             android:id="@+id/principal"
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:fontFamily="sans-serif-medium"
+            android:layout_gravity="center"
+            android:padding="5dp"
+            android:background="@drawable/shape"
+            android:fontFamily="@font/quicksandbold"
+            android:layout_marginBottom="7dp"
+            android:textAllCaps="false"
+            android:drawableRight="@drawable/ic_chevron_right_black_24dp"
+            android:textSize="20sp"
             android:onClick="principal"
-            android:text="Principal"
-            android:textSize="16sp" />
+            android:text="  Principal  "
+            />
 
         <Button
             android:id="@+id/departments"
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Departments"
-            android:textSize="16sp"
+            android:layout_gravity="center"
+            android:padding="5dp"
+            android:text="  Departments  "
+            android:background="@drawable/shape"
+            android:fontFamily="@font/quicksandbold"
+            android:textAllCaps="false"
+            android:layout_marginBottom="7dp"
+            android:drawableRight="@drawable/ic_chevron_right_black_24dp"
+            android:textSize="20sp"
             android:onClick="departments"/>
 
         <Button
             android:id="@+id/library"
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Library"
-            android:textSize="16sp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="7dp"
+            android:padding="5dp"
+            android:text="  Library  "
+            android:background="@drawable/shape"
+            android:fontFamily="@font/quicksandbold"
+            android:textAllCaps="false"
+            android:drawableRight="@drawable/ic_chevron_right_black_24dp"
+            android:textSize="20sp"
             android:onClick="library"/>
         <Button
             android:id="@+id/sports"
-            android:layout_width="match_parent"
+            android:layout_marginBottom="7dp"
+            android:layout_width="wrap_content"
+            android:padding="5dp"
+            android:background="@drawable/shape"
+            android:layout_gravity="center"
+            android:fontFamily="@font/quicksandbold"
+            android:textAllCaps="false"
+            android:drawableRight="@drawable/ic_chevron_right_black_24dp"
+            android:textSize="20sp"
             android:layout_height="wrap_content"
-            android:text="Sports And Fitness"
-            android:textSize="16sp"
+            android:text="  Sports And Fitness  "
             android:onClick="sports1"/>
 
 
         <Button
             android:id="@+id/transport"
-            android:layout_width="match_parent"
+            android:layout_marginBottom="7dp"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Transport"
-            android:textSize="16sp"
+            android:layout_gravity="center"
+            android:text="  Transport  "
+            android:padding="5dp"
+            android:background="@drawable/shape"
+            android:fontFamily="@font/quicksandbold"
+            android:textAllCaps="false"
+            android:drawableRight="@drawable/ic_chevron_right_black_24dp"
+            android:textSize="20sp"
             android:onClick="transport"/>
 
         <Button
             android:id="@+id/placementcell"
-            android:layout_width="match_parent"
+            android:layout_gravity="center"
+            android:layout_marginBottom="7dp"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Placement Cell"
-            android:textSize="16sp"
+            android:background="@drawable/shape"
+            android:fontFamily="@font/quicksandbold"
+            android:textAllCaps="false"
+            android:drawableRight="@drawable/ic_chevron_right_black_24dp"
+            android:textSize="20sp"
+            android:padding="5dp"
+            android:text="  Placement Cell  "
             android:onClick="placement"/>
         <Button
             android:id="@+id/exambranch"
-            android:layout_width="match_parent"
+            android:layout_marginBottom="7dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Examination Branch"
-            android:textSize="16sp" />
+            android:text="  Examination Branch  "
+            android:background="@drawable/shape"
+            android:fontFamily="@font/quicksandbold"
+            android:textAllCaps="false"
+            android:drawableRight="@drawable/ic_chevron_right_black_24dp"
+            android:textSize="20sp"
+            android:padding="5dp" />
         <Button
             android:id="@+id/randd"
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Research And Development"
-            android:textSize="16sp" />
+            android:layout_gravity="center"
+            android:layout_marginBottom="7dp"
+            android:text="  Research And Development  "
+            android:background="@drawable/shape"
+            android:fontFamily="@font/quicksandbold"
+            android:textAllCaps="false"
+            android:drawableRight="@drawable/ic_chevron_right_black_24dp"
+            android:textSize="20sp"
+            android:padding="5dp"
+             />
 
 
 
         <Button
             android:id="@+id/hostel"
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Hostel"
-            android:textSize="16sp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="7dp"
+            android:text="  Hostel  "
+            android:background="@drawable/shape"
+            android:fontFamily="@font/quicksandbold"
+            android:textAllCaps="false"
+            android:drawableRight="@drawable/ic_chevron_right_black_24dp"
+            android:textSize="20sp"
+            android:padding="5dp"
             android:onClick="hostel"/>
 
         <Button
             android:id="@+id/wellnesscenter"
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
+            android:layout_marginBottom="7dp"
             android:layout_height="wrap_content"
-            android:text="Wellness Center"
+            android:layout_gravity="center"
+            android:text="  Wellness Center  "
             android:onClick="wellc"
-            android:textSize="16sp" />
+            android:background="@drawable/shape"
+            android:fontFamily="@font/quicksandbold"
+            android:textAllCaps="false"
+            android:drawableRight="@drawable/ic_chevron_right_black_24dp"
+            android:textSize="20sp"
+            android:padding="5dp" />
 
         <Button
             android:id="@+id/clubs"
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Clubs"
-            android:textSize="16sp" />
+            android:layout_gravity="center"
+            android:layout_marginBottom="7dp"
+            android:text="  Clubs  "
+            android:background="@drawable/shape"
+            android:fontFamily="@font/quicksandbold"
+            android:textAllCaps="false"
+            android:drawableRight="@drawable/ic_chevron_right_black_24dp"
+            android:textSize="20sp"
+            android:padding="5dp"
+             />
 
         <Button
             android:id="@+id/adminandaccounts"
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Admin And Accounts"
-            android:textSize="16sp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="7dp"
+            android:text="  Admin And Accounts  "
+            android:background="@drawable/shape"
+            android:fontFamily="@font/quicksandbold"
+            android:textAllCaps="false"
+            android:drawableRight="@drawable/ic_chevron_right_black_24dp"
+            android:textSize="20sp"
+            android:padding="5dp"
             android:onClick="adminacc"/>
         <Button
             android:id="@+id/networkandit"
-            android:layout_width="match_parent"
+            android:layout_marginBottom="7dp"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Network and it"
-            android:textSize="16sp" />
+            android:layout_gravity="center"
+            android:text="  Network and it  "
+            android:background="@drawable/shape"
+            android:fontFamily="@font/quicksandbold"
+            android:textAllCaps="false"
+            android:drawableRight="@drawable/ic_chevron_right_black_24dp"
+            android:textSize="20sp"
+            android:padding="5dp"
+             />
 
 
         <Button
             android:id="@+id/contactus"
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_gravity="center"
             android:text="Contact Us"
-            android:textSize="16sp"
+            android:background="@drawable/shape"
+            android:fontFamily="@font/quicksandbold"
+            android:textAllCaps="false"
+            android:drawableRight="@drawable/ic_chevron_right_black_24dp"
+            android:textSize="20sp"
+            android:padding="5dp"
             android:onClick="contactus"
             android:layout_marginBottom="30dp"/>
     </LinearLayout>
