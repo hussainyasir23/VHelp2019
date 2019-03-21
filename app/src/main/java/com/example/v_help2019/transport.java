@@ -34,6 +34,8 @@ public class transport extends Activity {
     }
 
     public void balanagar(View view) {
+        Intent baintent=new Intent(transport.this,balanagar.class);
+        startActivity(baintent);
     }
 
     public void medchal(View view) {

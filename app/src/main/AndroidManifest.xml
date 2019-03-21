@@ -9,8 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".adminacc"></activity>
-        <activity android:name=".medchal" />
+        <activity android:name=".medchal"></activity>
         <activity android:name=".mdkandgjl" />
         <activity android:name=".hostel" />
         <activity android:name=".placement" />
