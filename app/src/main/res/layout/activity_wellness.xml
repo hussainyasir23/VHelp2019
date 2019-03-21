@@ -82,13 +82,14 @@
             android:textColorLink="@color/blue"
             android:textSize="15dp"
             android:textStyle="bold" />
+
         <TextView
             android:id="@+id/textView"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:fontFamily="@font/oxygenregular"
             android:text="Ambulance"
-            android:textAlignment="center"
+            android:textAlignment="textStart"
             android:textColor="@color/black"
             android:textSize="20dp"
             android:textStyle="bold" />
