@@ -106,7 +106,7 @@
             android:id="@+id/textView3"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginBottom="20dp"
+            android:layout_marginBottom="35dp"
             android:fontFamily="@font/oxygenregular"
             android:text="Secretary: Sri K Aditya Vissam"
             android:textAlignment="center"

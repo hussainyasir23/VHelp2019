@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".randd"></activity>
+        <activity android:name=".dean"></activity>
+        <activity android:name=".randd" />
         <activity android:name=".exam" />
         <activity android:name=".sangareddy" />
         <activity android:name=".lothukunta" />

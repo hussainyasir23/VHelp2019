@@ -11,9 +11,9 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="vertical"
-        android:layout_marginRight="15dp"
-        android:layout_marginLeft="15dp"
-        android:layout_marginTop="15dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="25dp"
         android:layout_marginBottom="20dp">
 
         <TextView
@@ -258,6 +258,6 @@
             android:text="MEDAK and GAJWEL"
             android:textSize="16sp"
             android:onClick="mdkandgjl"
-            android:layout_marginBottom="25dp"/>
+            android:layout_marginBottom="35dp"/>
     </LinearLayout>
 </ScrollView>

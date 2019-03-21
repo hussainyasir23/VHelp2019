@@ -4,8 +4,9 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-    tools:context=".principal">
+    android:layout_height="match_parent"
+    tools:context=".dean">
+
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -17,11 +18,11 @@
         android:orientation="vertical">
 
         <ImageView
-            android:id="@+id/imageView"
+            android:id="@+id/imageView12"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:contentDescription="TODO"
-            app:srcCompat="@drawable/principal" />
+            android:layout_height="300dp"
+            android:layout_marginBottom="10dp"
+            android:src="@drawable/dean" />
 
         <TextView
             android:id="@+id/textView"
@@ -29,7 +30,7 @@
             android:layout_height="wrap_content"
             android:layout_marginBottom="20dp"
             android:fontFamily="@font/oxygenregular"
-            android:text="@string/dr_y_krishna_reddy"
+            android:text="Mr. K Srinivasa Reddy"
             android:textAlignment="center"
             android:textColor="@color/black"
             android:textSize="20sp"
@@ -43,7 +44,7 @@
             android:layout_marginBottom="15dp"
             android:autoLink="phone"
             android:clickable="true"
-            android:text="+91 7337411184"
+            android:text="+91 9704225552"
             android:textAlignment="center"
             android:textColor="@color/black"
             android:textColorLink="@color/blue"
@@ -60,22 +61,12 @@
             android:clickable="true"
             android:fontFamily="monospace"
             android:scrollbarSize="10dp"
-            android:text="principal@bvrit.ac.in"
+            android:text="srinivasareddy.kaipa@bvrit.ac.in"
             android:textColor="@color/black"
             android:textColorLink="@color/blue"
             android:textSize="20sp"
             android:textStyle="bold"
             android:focusable="true" />
 
-        <TextView
-            android:id="@+id/textView2"
-            android:layout_width="match_parent"
-            android:layout_height="300dp"
-            android:fontFamily="@font/oxygenregular"
-            android:text=" Dr. Y. Krishna Reddy, the Principal of B. V. Raju Institute of Technology, Vishnupur, Narsapur, Medak District has earlier worked as professor of Mechanical Engineering at CBIT, Hyderabad.\n He did his graduation from JNTU, Anantapur(1976-81) and post-graduation from IIT Kharagpur (1981-83). He pursed his doctoral and research work at IIT Kharagpur on full time basis for 3 years on lien from CBIT. He had worked for two years in the US on software projects. He has a passion for teaching and has learnt and taught many programming languages and CAD packages for Mechanical Engineering students."
-            android:textAlignment="textStart"
-            android:textAllCaps="false"
-            android:textColor="@color/black"
-            android:textSize="15dp" />
     </LinearLayout>
 </ScrollView>

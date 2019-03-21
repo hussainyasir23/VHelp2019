@@ -87,4 +87,9 @@ public class HomeActivity extends Activity {
         Intent exaIntent = new Intent(HomeActivity.this, exam.class);
         startActivity(exaIntent);
     }
+
+    public void dean(View view) {
+        Intent deanIntent = new Intent(HomeActivity.this, dean.class);
+        startActivity(deanIntent);
+    }
 }
