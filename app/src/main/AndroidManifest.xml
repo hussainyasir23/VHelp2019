@@ -10,6 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".medchal"></activity>
+        <activity android:name=".adminacc" />
         <activity android:name=".mdkandgjl" />
         <activity android:name=".hostel" />
         <activity android:name=".placement" />
