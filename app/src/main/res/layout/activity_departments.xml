@@ -32,7 +32,7 @@
             android:layout_height="wrap_content"
             android:background="@drawable/shape2"
             android:fontFamily="@font/quicksandbold"
-            android:text="BS H"
+            android:text="BSH"
             android:onClick="bsh"
             android:textSize="20sp"
             android:layout_marginBottom="7dp"/>
@@ -136,7 +136,7 @@
             android:text="MBA"
             android:onClick="mba"
             android:textSize="20sp"
-            android:layout_marginBottom="7dp"/>
+            android:layout_marginBottom="40dp"/>
 
 
     </LinearLayout>
