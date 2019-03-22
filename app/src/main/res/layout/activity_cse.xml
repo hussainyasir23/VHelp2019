@@ -391,7 +391,7 @@
         <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Jaagadeesh Dandu"
+        android:text="Jagadeesh Dandu"
         android:textSize="18sp"
         android:textColor="@color/black"
         android:layout_marginBottom="10dp"
