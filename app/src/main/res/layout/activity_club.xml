@@ -14,6 +14,166 @@
         android:layout_marginTop="25dp"
         android:layout_marginLeft="25dp"
         android:layout_marginRight="25dp">
+        <TextView
+            android:id="@+id/textView0"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/oxygenregular"
+            android:text="CLUBS"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/oxygenregular"
+            android:text=" Not all the time learning but they become creative artist too.
+Cultural activities give way to exhibit their innate talents and off
+stage they become great citizens of India. Besides the regular
+academic exercises the students do have a chance to become
+members of the following professional bodies likeIndian Society of Technical Education (ISTE)
+Indian Society of Electrical and Electronics Engineers (IEEE)
+Computer Society of India (CSI)
+X Hobby Clubs
+Social Service organisations like Club InQuisitive, Enlighten
+lives, we are for You, etc.
+
+Every department has its Club and Students Association that
+engages in Student Development Activities and conducts regular
+cultural fests, seminars, national symposiums and development
+programs."
+            android:textAlignment="textStart"
+            android:textAllCaps="false"
+            android:textColor="@color/black"
+            android:textSize="15dp"
+            android:layout_marginBottom="7dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            />
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="7dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="BOAT CLUB"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView21"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/oxygenregular"
+            android:text="A boating club has been set up in the premises for the recreation
+of the students. Presently it has two boats and the pond is
+located near open auditorium of the campus."
+            android:textAlignment="textStart"
+            android:textAllCaps="false"
+            android:textColor="@color/black"
+            android:textSize="15dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginBottom="7dp"
+            />
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="7dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="ENGLISH READERS CLUB(ERC)"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView22"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/oxygenregular"
+            android:text="To inculcate the habit of reading English among the students
+that could enhance their English Language Skills. This club
+will create an air where in students regularly get habituated to
+read some good English Novels (both fiction and non-fiction)
+magazines, etc. It stocks some of the bestselling books."
+            android:textAlignment="textStart"
+            android:textAllCaps="false"
+            android:textColor="@color/black"
+            android:textSize="15dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginBottom="7dp"
+            />
+        <TextView
+            android:id="@+id/textView11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="7dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="MEDIA CLUB"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView23"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/oxygenregular"
+            android:text="It was realized that students' media experiences are as important as their experience with their parents,peers and teachers and by allowing them to bring their media experiences in BVRIT,a creative
+environment can be created where they could get a chance to potray their photography skills."
+            android:textAlignment="textStart"
+            android:textAllCaps="false"
+            android:textColor="@color/black"
+            android:textSize="15dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginBottom="7dp"
+            />
+        <TextView
+            android:id="@+id/textView24"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/oxygenregular"
+            android:text=" The mission of the Photography Club is to provide a supportive environment for interested photography students to share their
+creativity,knowledge and passion for photography while attending BVRIT."
+            android:textAlignment="textStart"
+            android:textAllCaps="false"
+            android:textColor="@color/black"
+            android:textSize="15dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginBottom="7dp"
+            />
+        <TextView
+            android:id="@+id/textView100"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="7dp"
+            android:fontFamily="@font/oxygenregular"
+            android:text="CULTURAL CLUB"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView26"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/oxygenregular"
+            android:text=" Every institution "
+            android:textAlignment="textStart"
+            android:textAllCaps="false"
+            android:textColor="@color/black"
+            android:textSize="15dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginBottom="7dp"
+            />
+
+
+
+
 
     </LinearLayout>
 </ScrollView>
