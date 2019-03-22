@@ -45,6 +45,60 @@
             android:textSize="16sp"
             android:layout_marginBottom="20dp"
             android:layout_marginLeft="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:text="Dr K.V.B Reddy"
+            android:textColor="@color/black"
+            android:textSize="20sp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="+91 9441922050"
+            android:autoLink="phone"
+            android:textAlignment="center"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp"
+            android:textSize="15sp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="vijayabhaskarreddy@bvrit.ac.in"
+            android:autoLink="email"
+            android:textAlignment="center"
+            android:layout_marginBottom="20dp"
+            android:layout_marginLeft="10dp"
+            android:textSize="15sp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:text="D Ravi Karun Kumar Raju"
+            android:textColor="@color/black"
+            android:textSize="18sp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="+91 985977401"
+            android:autoLink="phone"
+            android:textAlignment="center"
+            android:layout_marginBottom="10dp"
+            android:textSize="15sp"
+            android:layout_marginLeft="10dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ravivarma4992@bvrit.ac.in"
+            android:autoLink="email"
+            android:textSize="15sp"
+            android:textAlignment="center"
+            android:layout_marginBottom="30dp"
+            android:layout_marginLeft="10dp"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -73,6 +127,115 @@
             android:layout_marginBottom="20dp"
             android:layout_marginLeft="10dp"
             android:textSize="15sp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:text="Dr M Prameela"
+            android:textColor="@color/black"
+            android:textSize="18sp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="+91 9963284031"
+            android:autoLink="phone"
+            android:textAlignment="center"
+            android:layout_marginBottom="10dp"
+            android:textSize="15sp"
+            android:layout_marginLeft="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="prameela.m@bvrit.ac.in"
+            android:autoLink="email"
+            android:textSize="15sp"
+            android:textAlignment="center"
+            android:layout_marginBottom="30dp"
+            android:layout_marginLeft="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:text="Dr C Subba Rami Reddy"
+            android:textColor="@color/black"
+            android:textSize="18sp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="+91 9949827876"
+            android:autoLink="phone"
+            android:textAlignment="center"
+            android:layout_marginBottom="10dp"
+            android:textSize="15sp"
+            android:layout_marginLeft="10dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="subbaramireddy.c@bvrit.ac.in"
+            android:autoLink="email"
+            android:textSize="15sp"
+            android:textAlignment="center"
+            android:layout_marginBottom="30dp"
+            android:layout_marginLeft="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:text="Dr S Saravanan"
+            android:textColor="@color/black"
+            android:textSize="18sp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="+91 9493484248,9994056760"
+            android:autoLink="phone"
+            android:textAlignment="center"
+            android:layout_marginBottom="10dp"
+            android:textSize="15sp"
+            android:layout_marginLeft="10dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="saravanan.s@bvrit.ac.in"
+            android:autoLink="email"
+            android:textSize="15sp"
+            android:textAlignment="center"
+            android:layout_marginBottom="30dp"
+            android:layout_marginLeft="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:text="S Srinivasu"
+            android:textColor="@color/black"
+            android:textSize="18sp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="+91 9701608117"
+            android:autoLink="phone"
+            android:textAlignment="center"
+            android:layout_marginBottom="10dp"
+            android:textSize="15sp"
+            android:layout_marginLeft="10dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="srinivasu.s@bvrit.ac.in"
+            android:autoLink="email"
+            android:textSize="15sp"
+            android:textAlignment="center"
+            android:layout_marginBottom="30dp"
+            android:layout_marginLeft="10dp"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -158,33 +321,7 @@
             android:layout_marginLeft="10dp"
             android:textSize="15sp"/>
 
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="10dp"
-            android:layout_marginTop="10dp"
-            android:layout_marginBottom="10dp"
-            android:text="Dr K.V.B Reddy"
-            android:textColor="@color/black"
-            android:textSize="20sp"/>
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="+91 9441922050"
-            android:autoLink="phone"
-            android:textAlignment="center"
-            android:layout_marginBottom="10dp"
-            android:layout_marginLeft="10dp"
-            android:textSize="15sp"/>
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="vijayabhaskarreddy@bvrit.ac.in"
-            android:autoLink="email"
-            android:textAlignment="center"
-            android:layout_marginBottom="20dp"
-            android:layout_marginLeft="10dp"
-            android:textSize="15sp"/>
+
 
         <TextView
             android:layout_width="match_parent"
@@ -325,33 +462,7 @@
             android:textAlignment="center"
             android:layout_marginBottom="30dp"
             android:layout_marginLeft="10dp"/>
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="10dp"
-            android:layout_marginTop="10dp"
-            android:layout_marginBottom="10dp"
-            android:text="D Ravi Karun Kumar Raju"
-            android:textColor="@color/black"
-            android:textSize="18sp"/>
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="+91 985977401"
-            android:autoLink="phone"
-            android:textAlignment="center"
-            android:layout_marginBottom="10dp"
-            android:textSize="15sp"
-            android:layout_marginLeft="10dp"/>
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="ravivarma4992@bvrit.ac.in"
-            android:autoLink="email"
-            android:textSize="15sp"
-            android:textAlignment="center"
-            android:layout_marginBottom="30dp"
-            android:layout_marginLeft="10dp"/>
+
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -460,34 +571,7 @@
             android:textAlignment="center"
             android:layout_marginBottom="30dp"
             android:layout_marginLeft="10dp"/>
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="10dp"
-            android:layout_marginTop="10dp"
-            android:layout_marginBottom="10dp"
-            android:text="Dr M Prameela"
-            android:textColor="@color/black"
-            android:textSize="18sp"/>
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="+91 9963284031,9949676531"
-            android:autoLink="phone"
-            android:textAlignment="center"
-            android:layout_marginBottom="10dp"
-            android:textSize="15sp"
-            android:layout_marginLeft="10dp"/>
 
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="prameela.m@bvrit.ac.in"
-            android:autoLink="email"
-            android:textSize="15sp"
-            android:textAlignment="center"
-            android:layout_marginBottom="30dp"
-            android:layout_marginLeft="10dp"/>
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -704,87 +788,7 @@
             android:textAlignment="center"
             android:layout_marginBottom="30dp"
             android:layout_marginLeft="10dp"/>
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="10dp"
-            android:layout_marginTop="10dp"
-            android:layout_marginBottom="10dp"
-            android:text="Dr C Subba Rami Reddy"
-            android:textColor="@color/black"
-            android:textSize="18sp"/>
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="+91 9949827876"
-            android:autoLink="phone"
-            android:textAlignment="center"
-            android:layout_marginBottom="10dp"
-            android:textSize="15sp"
-            android:layout_marginLeft="10dp"/>
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="subbaramireddy.c@bvrit.ac.in"
-            android:autoLink="email"
-            android:textSize="15sp"
-            android:textAlignment="center"
-            android:layout_marginBottom="30dp"
-            android:layout_marginLeft="10dp"/>
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="10dp"
-            android:layout_marginTop="10dp"
-            android:layout_marginBottom="10dp"
-            android:text="Dr S Saravanan"
-            android:textColor="@color/black"
-            android:textSize="18sp"/>
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="+91 9493484248,9994056760"
-            android:autoLink="phone"
-            android:textAlignment="center"
-            android:layout_marginBottom="10dp"
-            android:textSize="15sp"
-            android:layout_marginLeft="10dp"/>
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="saravanan.s@bvrit.ac.in"
-            android:autoLink="email"
-            android:textSize="15sp"
-            android:textAlignment="center"
-            android:layout_marginBottom="30dp"
-            android:layout_marginLeft="10dp"/>
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="10dp"
-            android:layout_marginTop="10dp"
-            android:layout_marginBottom="10dp"
-            android:text="S Srinivasu"
-            android:textColor="@color/black"
-            android:textSize="18sp"/>
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="+91 9701608117"
-            android:autoLink="phone"
-            android:textAlignment="center"
-            android:layout_marginBottom="10dp"
-            android:textSize="15sp"
-            android:layout_marginLeft="10dp"/>
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="srinivasu.s@bvrit.ac.in"
-            android:autoLink="email"
-            android:textSize="15sp"
-            android:textAlignment="center"
-            android:layout_marginBottom="30dp"
-            android:layout_marginLeft="10dp"/>
+
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

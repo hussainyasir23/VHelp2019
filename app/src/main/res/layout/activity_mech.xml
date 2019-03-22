@@ -45,6 +45,60 @@
             android:textSize="16sp"
             android:layout_marginBottom="20dp"
             android:layout_marginLeft="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:text="Dr A Varun"
+            android:textColor="@color/black"
+            android:textSize="18sp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="+91 9494226711"
+            android:autoLink="phone"
+            android:textAlignment="center"
+            android:layout_marginBottom="10dp"
+            android:textSize="15sp"
+            android:layout_marginLeft="10dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="varun.a@bvrit.ac.in"
+            android:autoLink="email"
+            android:textSize="15sp"
+            android:textAlignment="center"
+            android:layout_marginBottom="30dp"
+            android:layout_marginLeft="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:text="Dr P Senthil Kumar"
+            android:textColor="@color/black"
+            android:textSize="18sp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="+91 8608608068"
+            android:autoLink="phone"
+            android:textAlignment="center"
+            android:layout_marginBottom="10dp"
+            android:textSize="15sp"
+            android:layout_marginLeft="10dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="senthil.p@bvrit.ac.in"
+            android:autoLink="email"
+            android:textSize="15sp"
+            android:textAlignment="center"
+            android:layout_marginBottom="30dp"
+            android:layout_marginLeft="10dp"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -325,33 +379,7 @@
             android:textAlignment="center"
             android:layout_marginBottom="30dp"
             android:layout_marginLeft="10dp"/>
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="10dp"
-            android:layout_marginTop="10dp"
-            android:layout_marginBottom="10dp"
-            android:text="Dr A Varun"
-            android:textColor="@color/black"
-            android:textSize="18sp"/>
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="+91 9494226711"
-            android:autoLink="phone"
-            android:textAlignment="center"
-            android:layout_marginBottom="10dp"
-            android:textSize="15sp"
-            android:layout_marginLeft="10dp"/>
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="varun.a@bvrit.ac.in"
-            android:autoLink="email"
-            android:textSize="15sp"
-            android:textAlignment="center"
-            android:layout_marginBottom="30dp"
-            android:layout_marginLeft="10dp"/>
+
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -704,33 +732,7 @@
             android:textAlignment="center"
             android:layout_marginBottom="30dp"
             android:layout_marginLeft="10dp"/>
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="10dp"
-            android:layout_marginTop="10dp"
-            android:layout_marginBottom="10dp"
-            android:text="Dr P Senthil Kumar"
-            android:textColor="@color/black"
-            android:textSize="18sp"/>
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="+91 8608608068"
-            android:autoLink="phone"
-            android:textAlignment="center"
-            android:layout_marginBottom="10dp"
-            android:textSize="15sp"
-            android:layout_marginLeft="10dp"/>
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="senthil.p@bvrit.ac.in"
-            android:autoLink="email"
-            android:textSize="15sp"
-            android:textAlignment="center"
-            android:layout_marginBottom="30dp"
-            android:layout_marginLeft="10dp"/>
+
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
