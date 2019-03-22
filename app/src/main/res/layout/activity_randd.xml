@@ -13,6 +13,44 @@
         android:layout_marginTop="25dp"
         android:layout_marginLeft="25dp"
         android:layout_marginRight="25dp">
+        <TextView
+            android:id="@+id/textView0"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/oxygenregular"
+            android:text="About Research and Development"
+            android:layout_marginBottom="15dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView21"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/oxygenregular"
+            android:text="BVRIT is a premier institute having highly committed faculty with admirable academic and research background and strong inclination towards research and development of innovative technologies. The faculty of the institute offer quality research training to the students through various in-house and industry collaborative projects. The execution of various sponsored projects granted by DST, UGC and AICTE, and a number of research papers published in SCI/SCOPUS indexed journals indicate the institute’s strength in R and D."
+            android:textAlignment="textStart"
+            android:textAllCaps="false"
+            android:textColor="@color/black"
+            android:textSize="15dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginBottom="30dp"
+            />
+        <TextView
+            android:id="@+id/textView29"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/oxygenregular"
+            android:text="The R and D programs of the institute are lead by highly experienced persons with industry and academic background. The department level faculty and student research projects are monitored by lead coordinators of the respective departments. The institute has identified a number of thrust areas enabling the faculty and students to choose research problems. The institute has setup various research centers and special labs facilitating the students and faculty to participate in exciting research projects with innovative ideas."
+            android:textAlignment="textStart"
+            android:textAllCaps="false"
+            android:textColor="@color/black"
+            android:textSize="15dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginBottom="30dp"
+            />
 
     </LinearLayout>
 
