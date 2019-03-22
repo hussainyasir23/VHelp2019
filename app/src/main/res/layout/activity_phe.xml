@@ -101,34 +101,7 @@
             android:textSize="15sp"
             android:layout_marginBottom="20dp"
             android:layout_marginLeft="10dp"/>
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="A.Divya"
-            android:layout_marginBottom="10dp"
-            android:textSize="18sp"
-            android:textColor="@color/black"
-            android:layout_marginTop="10dp"
-            android:layout_marginLeft="10dp"/>
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="+91 9849839043"
-            android:autoLink="phone"
-            android:textAlignment="center"
-            android:textSize="15sp"
-            android:layout_marginBottom="10dp"
-            android:layout_marginLeft="10dp"/>
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="aarydivya1@gmail.com"
-            android:fontFamily="monospace"
-            android:autoLink="email"
-            android:textAlignment="center"
-            android:textSize="15sp"
-            android:layout_marginBottom="20dp"
-            android:layout_marginLeft="10dp"/>
+
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -151,6 +124,34 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="basheeruddin.pasha@bvrit.ac.in"
+            android:fontFamily="monospace"
+            android:autoLink="email"
+            android:textAlignment="center"
+            android:textSize="15sp"
+            android:layout_marginBottom="20dp"
+            android:layout_marginLeft="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="N.Vinaya"
+            android:textColor="@color/black"
+            android:layout_marginBottom="10dp"
+            android:textSize="18sp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="+91 7095198777"
+            android:autoLink="phone"
+            android:textAlignment="center"
+            android:textSize="15sp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="vinaya.n@bvrit.ac.in"
             android:fontFamily="monospace"
             android:autoLink="email"
             android:textAlignment="center"
