@@ -274,6 +274,66 @@
             android:layout_marginBottom="20dp"
             android:textSize="15sp"
             android:layout_marginLeft="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Dr. V.Deepika"
+            android:textSize="18sp"
+            android:textColor="@color/black"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="+91 9959024269"
+            android:autoLink="phone"
+            android:textAlignment="center"
+            android:textSize="15sp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="deepika.v@bvrit.ac.in"
+            android:fontFamily="monospace"
+            android:autoLink="email"
+            android:textAlignment="center"
+            android:textSize="15sp"
+            android:layout_marginBottom="30dp"
+            android:layout_marginLeft="10dp"/>
+
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Dr. D. Lakshmi"
+            android:textSize="18sp"
+            android:textColor="@color/black"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="+91 9945379089"
+            android:autoLink="phone"
+            android:textAlignment="center"
+            android:textSize="15sp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="lakshmi.d@bvrit.ac.in"
+            android:fontFamily="monospace"
+            android:autoLink="email"
+            android:textAlignment="center"
+            android:textSize="15sp"
+            android:layout_marginBottom="30dp"
+            android:layout_marginLeft="10dp"/>
+
 
         <TextView
             android:layout_width="match_parent"
@@ -1508,34 +1568,7 @@
             android:textSize="15sp"
             android:layout_marginBottom="30dp"
             android:layout_marginLeft="10dp"/>
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="V.Deepika"
-            android:textSize="18sp"
-            android:textColor="@color/black"
-            android:layout_marginBottom="10dp"
-            android:layout_marginTop="10dp"
-            android:layout_marginLeft="10dp"/>
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="+91 9959024269"
-            android:autoLink="phone"
-            android:textAlignment="center"
-            android:textSize="15sp"
-            android:layout_marginBottom="10dp"
-            android:layout_marginLeft="10dp"/>
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="deepika.v@bvrit.ac.in"
-            android:fontFamily="monospace"
-            android:autoLink="email"
-            android:textAlignment="center"
-            android:textSize="15sp"
-            android:layout_marginBottom="30dp"
-            android:layout_marginLeft="10dp"/>
+
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -1564,34 +1597,7 @@
             android:textSize="15sp"
             android:layout_marginBottom="30dp"
             android:layout_marginLeft="10dp"/>
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="Rachana Gudi"
-            android:textSize="18sp"
-            android:textColor="@color/black"
-            android:layout_marginBottom="10dp"
-            android:layout_marginTop="10dp"
-            android:layout_marginLeft="10dp"/>
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="+91 9008714594"
-            android:autoLink="phone"
-            android:textAlignment="center"
-            android:textSize="15sp"
-            android:layout_marginBottom="10dp"
-            android:layout_marginLeft="10dp"/>
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="rachana.g@bvrit.ac.in"
-            android:fontFamily="monospace"
-            android:autoLink="email"
-            android:textAlignment="center"
-            android:textSize="15sp"
-            android:layout_marginBottom="30dp"
-            android:layout_marginLeft="10dp"/>
+
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

@@ -80,7 +80,7 @@
             android:layout_marginTop="10dp"
             android:layout_marginBottom="10dp"
             android:textSize="18sp"
-            android:text="M.Kaathik "
+            android:text="M.Karthik "
             android:textColor="@color/black" />
         <TextView
             android:layout_width="wrap_content"
