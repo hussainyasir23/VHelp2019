@@ -161,14 +161,14 @@ creativity,knowledge and passion for photography while attending BVRIT."
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:fontFamily="@font/oxygenregular"
-            android:text=" Every institution "
+            android:text=" At Cultural Club of BVRIT Narsapur,work towards keeping the college vibrating with passion and energy round the year.Not one even in the calendar misses our scope of being celebrations in style."
             android:textAlignment="textStart"
             android:textAllCaps="false"
             android:textColor="@color/black"
             android:textSize="15dp"
             android:layout_marginRight="20dp"
             android:layout_marginLeft="20dp"
-            android:layout_marginBottom="7dp"
+            android:layout_marginBottom="30dp"
             />
 
 
