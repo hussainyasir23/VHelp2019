@@ -716,7 +716,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="+91 "
+            android:text="+91 9949660889"
             android:autoLink="phone"
             android:textAlignment="center"
             android:layout_marginBottom="10dp"
