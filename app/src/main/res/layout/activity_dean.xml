@@ -36,10 +36,7 @@
             android:textSize="20sp"
             android:textStyle="bold" />
 
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text=""/>
+
         <TextView
             android:id="@+id/textView3"
             android:layout_width="wrap_content"
@@ -71,6 +68,19 @@
             android:textSize="20sp"
             android:textStyle="bold"
             android:focusable="true" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="textStart"
+            android:text="Mr. K Srinivasa Reddy ,the dean of BVRIT Narsapur, has previously worked as head of Career Development center in GMRIT. \nHe did his graduation from NIT Tiruchirappalli and Master of Engineering in Production Engineering from Osmania University,Hyderabad.
+He had worked as Dean of Academic Affairs in SVES for 5 years and he has excellent records regarding the Campus placements in his career."
+            android:fontFamily="@font/oxygenregular"
+            android:textAllCaps="false"
+            android:layout_marginBottom="40dp"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            />
 
     </LinearLayout>
 </ScrollView>

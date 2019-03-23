@@ -43,7 +43,7 @@
             android:layout_marginLeft="15dp"
             android:textColor="@color/black"
             android:layout_marginBottom="30dp"
-            android:textSize="18.0dip"/>
+            android:textSize="18sp"/>
 
         <ImageView
             android:id="@+id/imageView6"
@@ -55,12 +55,23 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="20dp"
-            android:fontFamily="@font/oxygenregular"
+            android:fontFamily="@font/oxygenbold"
             android:text="Founder: Dr. B V Raju"
             android:textAlignment="center"
             android:textColor="@color/black"
             android:textSize="18sp"
             android:textStyle="bold|italic" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:fontFamily="@font/oxygenregular"
+            android:textAllCaps="false"
+            android:textAlignment="textStart"
+            android:textColor="@color/black"
+            android:textSize="15sp"
+            android:text="Dr. B V Raju a septuagenarian came from a humble agricultural family of Kumudavalli village near Bhimavaram, W.G.Dist of Andhra Pradesh. He was a Chemical Engineer from Benaras Hindu University and a Management Graduate from Harvard University, U.S.A.  In due Recognition of his contribution for the industrial sector in India, he was awarded with PADMASHRI in 1977 and PADMA BHUSHAN in 2001 by the Govt. of India., and was awarded DOCTORATE by Jawaharlal Nehru Technological University, Hyderabad. Both the B.V.Raju Foundation and Sri Vishnu Educational Society are the culmination of his vision, inspiration, conscientious effort to help the society particularly the underprivileged people."
+            android:layout_marginBottom="20dp"/>
 
         <ImageView
             android:id="@+id/imageView5"
@@ -73,12 +84,23 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="20dp"
-            android:fontFamily="@font/oxygenregular"
+            android:fontFamily="@font/oxygenbold"
             android:text="Chairman: Sri K V Vishnu Raju"
             android:textAlignment="center"
             android:textColor="@color/black"
             android:textSize="18sp"
             android:textStyle="bold|italic" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:fontFamily="@font/oxygenregular"
+            android:textAllCaps="false"
+            android:textAlignment="textStart"
+            android:textColor="@color/black"
+            android:textSize="15sp"
+            android:text="An Industrialist, Educationist and Social Entrepreneur, Sri K V Vishnu Raju took over the reigns of Sri Vishnu Educational Society (SVES) after the sad demise of Founder Chairman Padma Bhushan Dr B V Raju in 2002. He brought in a global outlook, strategic vision and passion for social enterprise and institution-building as Chairman of Sri Vishnu Educational Society. He is the vanguard in building an organization that was deeply committed to Values, with the firm belief that success would be its inevitable, eventual outcome."
+            android:layout_marginBottom="20dp"/>
 
         <ImageView
             android:id="@+id/imageView7"
@@ -90,12 +112,23 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="20dp"
-            android:fontFamily="@font/oxygenregular"
+            android:fontFamily="@font/oxygenbold"
             android:text="Vice Chairman: Sri Ravichandran Rajagopal"
             android:textAlignment="center"
             android:textColor="@color/black"
-            android:textSize="18sp"
+            android:textSize="17sp"
             android:textStyle="bold|italic" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:fontFamily="@font/oxygenregular"
+            android:textAllCaps="false"
+            android:textAlignment="textStart"
+            android:textColor="@color/black"
+            android:textSize="15sp"
+            android:text="Sri.Ravichandran Rajagopal, Vice Chairman of Sri Vishnu Educational Society, is a graduate in Mechanical Engineering from National Institute of Technology, Tiruchirapalli, and a postgraduate in Management from Indian Institute of Management, Calcutta. Ravichandran started his professional career with the Swiss multinational company Novartis, India where he served in various capacities including Business Development, New Product and Application development, and Vendor Development."
+            android:layout_marginBottom="20dp"/>
 
         <ImageView
             android:id="@+id/imageView8"
@@ -107,12 +140,23 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="35dp"
-            android:fontFamily="@font/oxygenregular"
+            android:fontFamily="@font/oxygenbold"
             android:text="Secretary: Sri K Aditya Vissam"
             android:textAlignment="center"
             android:textColor="@color/black"
             android:textSize="18sp"
             android:textStyle="bold|italic" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:fontFamily="@font/oxygenregular"
+            android:textAllCaps="false"
+            android:textAlignment="textStart"
+            android:textColor="@color/black"
+            android:textSize="15sp"
+            android:text="Aditya Vissam comes with a global exposure. Having done his Industrial Engineering at Pennsylvania State University, USA his understanding of engineering education in large universities, use of digital content, technology and pedagogy are some of the best practices he brings to the table. He has a rich work experience at Office Depot as Supply Chain Manager before he returned to India to take on responsibilities in the family business with interests in manufacturing, retail and education."
+            android:layout_marginBottom="40dp"/>
 
     </LinearLayout>
 </ScrollView>
