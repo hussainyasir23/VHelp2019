@@ -65,7 +65,7 @@
             android:text="srinivasareddy.kaipa@bvrit.ac.in"
             android:textColor="@color/black"
             android:textColorLink="@color/blue"
-            android:textSize="20sp"
+            android:textSize="17sp"
             android:textStyle="bold"
             android:focusable="true" />
 
